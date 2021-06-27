@@ -1,0 +1,14 @@
+torch
+numpy
+pandas
+scikit-learn
+tqdm
+py-rouge
+wmd
+spacy
+transformers
+plotly==4.8.2
+beautifulsoup4
+PyMuPDF
+textblob
+selenium

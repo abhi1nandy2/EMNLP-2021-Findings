@@ -1,0 +1,10 @@
+embeddings {
+  tensor_name: "RoBERTa pretrained on E-Manuals:00000"
+  metadata_path: "00000/RoBERTa pretrained on E-Manuals/metadata.tsv"
+  tensor_path: "00000/RoBERTa pretrained on E-Manuals/tensors.tsv"
+}
+embeddings {
+  tensor_name: "original pre-trained RoBERTa:00000"
+  metadata_path: "00000/original pre-trained RoBERTa/metadata.tsv"
+  tensor_path: "00000/original pre-trained RoBERTa/tensors.tsv"
+}

@@ -1,0 +1,2193 @@
+{
+  "section_0": {
+    "title": "Front view",
+    "text": [
+      "Front view",
+      "Proximity sensor",
+      "Turns off the screen and disables touch functionality during a call when the device is in close proximity to the body.",
+      "Turns the screen back on and enables touch functionality during a call when the device is outside a specific range from the body.",
+      "Power key",
+      "Press to turn the screen on or off.",
+      "Press and hold to select a power control option.",
+      "Volume keys",
+      "Adjust the volume for ringtones, media, notifications, and system sounds.",
+      "For more information, see .",
+      "Volume",
+      "In the camera app, press a volume key to take a photo."
+    ],
+    "html": [
+      "<h2 id=\"front_view\">\n Front view\n</h2>\n",
+      "<img class=\"block\" src=\"images/front.png\"/>\n",
+      "<ul>\n <li>\n  <b>\n   Proximity sensor\n  </b>\n  <ul>\n   <li>\n    Turns off the screen and disables touch functionality during a call when the device is in close proximity to the body.\n   </li>\n   <li>\n    Turns the screen back on and enables touch functionality during a call when the device is outside a specific range from the body.\n   </li>\n  </ul>\n </li>\n <li>\n  <b>\n   Power key\n  </b>\n  <ul>\n   <li>\n    Press to turn the screen on or off.\n   </li>\n   <li>\n    Press and hold to select a power control option.\n   </li>\n  </ul>\n </li>\n <li>\n  <b>\n   Volume keys\n  </b>\n  <ul>\n   <li>\n    Adjust the volume for ringtones, media, notifications, and system sounds. For more information, see\n    <a href=\"volume_tid1e10937.html#volume\">\n     Volume\n    </a>\n    .\n   </li>\n   <li>\n    In the camera app, press a volume key to take a photo.\n   </li>\n  </ul>\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/front_view_tid1e92.html",
+    "section_hierarchy": "section_0",
+    "id": "section_0"
+  },
+  "section_1": {
+    "title": "Back view",
+    "text": [
+      "Back view"
+    ],
+    "html": [
+      "<h2 id=\"back_view\">\n Back view\n</h2>\n",
+      "<img class=\"block\" src=\"images/back.png\"/>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/back_view_tid1e149.html",
+    "section_hierarchy": "section_1",
+    "id": "section_1"
+  },
+  "section_2": {
+    "title": "Set up your device",
+    "text": [
+      "Set up your device",
+      "Learn how to set up your device for the first time."
+    ],
+    "html": [
+      "<h2 class=\"subsection\" id=\"set_up_your_device\">\n Set up your device\n</h2>\n",
+      "<p>\n Learn how to set up your device for the first time.\n</p>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/set_up_your_device_tid1e164.html",
+    "section_hierarchy": "section_2",
+    "id": "section_2"
+  },
+  "section_3": {
+    "title": "Assemble your device",
+    "text": [
+      "Assemble your device",
+      "Learn about your mobile device hardware, assembly procedures, and how to get started using your new device."
+    ],
+    "html": [
+      "<h2 id=\"assemble_your_device\">\n Assemble your device\n</h2>\n",
+      "<p>\n Learn about your mobile device hardware, assembly procedures, and how to get started using your new device.\n</p>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/assemble_your_device_tid1e172.html",
+    "section_hierarchy": "section_2>section_3",
+    "id": "section_3"
+  },
+  "section_4": {
+    "title": "Start using your device",
+    "text": [
+      "Start using your device",
+      "The instructions below explain how to turn your device on or off.",
+      "To turn the device on:",
+      "Press and hold the Power key until the device turns on.",
+      "To turn the device off:",
+      "Press and hold the Power key.",
+      "Tap Power off, and confirm when prompted."
+    ],
+    "html": [
+      "<h2 class=\"new-page\" id=\"start_using_your_device\">\n Start using your device\n</h2>\n",
+      "<p>\n The instructions below explain how to turn your device on or off.\n</p>\n",
+      "<p>\n To turn the device on:\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  Press and hold the\n  <b>\n   Power\n  </b>\n  key until the device turns on.\n </li>\n</ul>\n",
+      "<p>\n To turn the device off:\n</p>\n",
+      "<ol>\n <li>\n  Press and hold the\n  <b>\n   Power\n  </b>\n  key.\n </li>\n <li>\n  Tap\n  <b>\n   Power off\n  </b>\n  , and confirm when prompted.\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/start_using_your_device_tid1e253.html",
+    "section_hierarchy": "section_2>section_4",
+    "id": "section_4"
+  },
+  "section_5": {
+    "title": "Learn about your device",
+    "text": [
+      "Learn about your device",
+      "Learn some of the key features of your mobile device, including the screens and icons, as well as how to navigate the device and enter text using the keyboard."
+    ],
+    "html": [
+      "<h2 class=\"subsection\" id=\"learn_about_your_device\">\n Learn about your device\n</h2>\n",
+      "<p>\n Learn some of the key features of your mobile device, including the screens and icons, as well as how to navigate the device and enter text using the keyboard.\n</p>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/learn_about_your_device_tid1e553.html",
+    "section_hierarchy": "section_5",
+    "id": "section_5"
+  },
+  "section_6": {
+    "title": "Navigation",
+    "text": [
+      "Navigation",
+      "Please note that a touchscreen responds best to a light touch from the pad of your finger or a capacitive stylus.",
+      "Using excessive force or a metallic object on the touchscreen may damage the tempered glass surface and void the warranty."
+    ],
+    "html": [
+      "<h2 id=\"navigation\">\n Navigation\n</h2>\n",
+      "<p>\n Please note that a touchscreen responds best to a light touch from the pad of your finger or a capacitive stylus. Using excessive force or a metallic object on the touchscreen may damage the tempered glass surface and void the warranty.\n</p>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/navigation_tid1e555.html",
+    "section_hierarchy": "section_5>section_6",
+    "id": "section_6"
+  },
+  "section_7": {
+    "title": "Common options",
+    "text": [
+      "Common options",
+      "The device uses basic command options to perform common actions.",
+      "More options: Tap to view more menu options for a screen.",
+      "Delete: Tap to select items to delete.",
+      "Share: Tap to select items to share, and then choose a sharing method.",
+      "Edit: Tap to customize the screen.",
+      "On/Off: Tap to turn the option on () or off ().",
+      "Menu: Tap to view available options for the field."
+    ],
+    "html": [
+      "<h2 id=\"common_options\">\n Common options\n</h2>\n",
+      "<p>\n The device uses basic command options to perform common actions.\n</p>\n",
+      "<ul>\n <li>\n  <b>\n   <img src=\"images/i-more_options.png\"/>\n   More options\n  </b>\n  : Tap to view more menu options for a screen.\n </li>\n <li>\n  <img src=\"images/i-generic_delete.png\"/>\n  <b>\n   Delete\n  </b>\n  : Tap to select items to delete.\n </li>\n <li>\n  <img src=\"images/i-generic_share.png\"/>\n  <b>\n   Share\n  </b>\n  : Tap to select items to share, and then choose a sharing method.\n </li>\n <li>\n  <img src=\"images/i-generic_edit.png\"/>\n  <b>\n   Edit\n  </b>\n  : Tap to customize the screen.\n </li>\n <li>\n  <b>\n   On/Off\n  </b>\n  : Tap to turn the option on (\n  <img src=\"images/i-on_button.png\"/>\n  ) or off (\n  <img src=\"images/i-off_button.png\"/>\n  ).\n </li>\n <li>\n  <b>\n   <img src=\"images/i-generic_dropdown_menu.png\"/>\n   Menu\n  </b>\n  : Tap to view available options for the field.\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/common_options_tid1e651.html",
+    "section_hierarchy": "section_5>section_7",
+    "id": "section_7"
+  },
+  "section_8": {
+    "title": "Home screen",
+    "text": [
+      "Home screen"
+    ],
+    "html": [
+      "<h2 id=\"home_screen\">\n Home screen\n</h2>\n",
+      "<img class=\"block\" src=\"images/home.png\"/>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/home_screen_tid1e712.html",
+    "section_hierarchy": "section_5>section_8",
+    "id": "section_8"
+  },
+  "section_9": {
+    "title": "Customize your Home screen",
+    "text": [
+      "Customize your Home screen",
+      "Your device has multiple Home screens to hold app shortcuts and widgets.",
+      "You can add, remove, change the order of screens, as well as choose a different main Home screen.",
+      "From a Home screen, pinch the screen.",
+      "Use these options to manage screens:",
+      "To align shortcuts into a line at the top of a screen, tap Align top.",
+      "To align shortcuts into a line at the bottom of a screen, tap Align bottom.",
+      "To remove a Home screen, tap Remove.",
+      "To set a screen as the main Home screen, tap Main.",
+      "This screen is displayed when you press the Home key.",
+      "To change the order of screens, touch and hold a screen, and then drag it to a new position.",
+      "To add a screen, swipe to the end of the screens, and then tap Add.",
+      "To enable or disable Flipboard Briefing, swipe to the left of the screens to find the Briefing screen, and tap On/Off at the top of the screen."
+    ],
+    "html": [
+      "<h2 id=\"customize_your_home_screen\">\n Customize your Home screen\n</h2>\n",
+      "<p>\n Your device has multiple Home screens to hold app shortcuts and widgets. You can add, remove, change the order of screens, as well as choose a different main Home screen.\n</p>\n",
+      "<ol>\n <li>\n  From a Home screen, pinch the screen.\n </li>\n <li>\n  Use these options to manage screens:\n  <ul>\n   <li>\n    To align shortcuts into a line at the top of a screen, tap\n    <img src=\"images/i-desktop_align_top.png\"/>\n    <b>\n     Align top\n    </b>\n    .\n   </li>\n   <li>\n    To align shortcuts into a line at the bottom of a screen, tap\n    <img src=\"images/i-desktop_align_bottom.png\"/>\n    <b>\n     Align bottom\n    </b>\n    .\n   </li>\n   <li>\n    To remove a Home screen, tap\n    <img src=\"images/i-generic_delete.png\"/>\n    <b>\n     Remove\n    </b>\n    .\n   </li>\n   <li>\n    To set a screen as the main Home screen, tap\n    <img src=\"images/i-internet_home.png\"/>\n    <b>\n     Main\n    </b>\n    . This screen is displayed when you press the\n    <b>\n     Home\n    </b>\n    key.\n   </li>\n   <li>\n    To change the order of screens, touch and hold a screen, and then drag it to a new position.\n   </li>\n   <li>\n    To add a screen, swipe to the end of the screens, and then tap\n    <img src=\"images/i-home_screen_add.png\"/>\n    <b>\n     Add\n    </b>\n    .\n   </li>\n   <li>\n    To enable or disable Flipboard Briefing, swipe to the left of the screens to find the Briefing screen, and tap\n    <b>\n     On/Off\n    </b>\n    at the top of the screen.\n   </li>\n  </ul>\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/customize_your_home_screen_tid1e717.html",
+    "section_hierarchy": "section_5>section_9",
+    "id": "section_9"
+  },
+  "section_10": {
+    "title": "Status bar",
+    "text": [
+      "Status bar",
+      "The Status bar provides device information on the right side and notification alerts on the left.",
+      "Status icons",
+      "Battery full",
+      "Battery low",
+      "Battery charging",
+      "Vibrate mode",
+      "Mute mode",
+      "Signal strength",
+      "Network not available",
+      "Wi-Fi active",
+      "Location service active",
+      "Notification icons",
+      "Missed call",
+      "Call in progress",
+      "Call on hold",
+      "New email",
+      "New voicemail",
+      "New message",
+      "File download in progress",
+      "File upload in progress",
+      "Wi-Fi available",
+      "App updates available"
+    ],
+    "html": [
+      "<h2 id=\"status_bar\">\n Status bar\n</h2>\n",
+      "<p>\n The Status bar provides device information on the right side and notification alerts on the left.\n</p>\n",
+      "<table>\n <col/>\n <col/>\n <thead>\n  <tr>\n   <th colspan=\"2\">\n    <p>\n     Status icons\n    </p>\n   </th>\n  </tr>\n </thead>\n <tbody>\n  <tr>\n   <td>\n    <img src=\"images/i-battery_full.png\"/>\n   </td>\n   <td>\n    Battery full\n   </td>\n  </tr>\n  <tr>\n   <td>\n    <img src=\"images/i-battery_low.png\"/>\n   </td>\n   <td>\n    Battery low\n   </td>\n  </tr>\n  <tr>\n   <td>\n    <img src=\"images/i-battery_charging.png\"/>\n   </td>\n   <td>\n    Battery charging\n   </td>\n  </tr>\n  <tr>\n   <td>\n    <img src=\"images/i-vibrate_mode.png\"/>\n   </td>\n   <td>\n    Vibrate mode\n   </td>\n  </tr>\n  <tr>\n   <td>\n    <img src=\"images/i-silent_mode.png\"/>\n   </td>\n   <td>\n    Mute mode\n   </td>\n  </tr>\n  <tr>\n   <td>\n    <img src=\"images/i-signal_strength.png\"/>\n   </td>\n   <td>\n    Signal strength\n   </td>\n  </tr>\n  <tr>\n   <td>\n    <img src=\"images/i-status_no_network.png\"/>\n   </td>\n   <td>\n    Network not available\n   </td>\n  </tr>\n  <tr>\n   <td>\n    <img src=\"images/i-status_wi-fi_active.png\"/>\n   </td>\n   <td>\n    Wi-Fi active\n   </td>\n  </tr>\n  <tr>\n   <td>\n    <img src=\"images/i-status_location_services.png\"/>\n   </td>\n   <td>\n    Location service active\n   </td>\n  </tr>\n </tbody>\n</table>\n",
+      "<p>\n</p>\n",
+      "<table>\n <col/>\n <col/>\n <thead>\n  <tr>\n   <th colspan=\"2\">\n    <p>\n    </p>\n    <p>\n     Notification icons\n    </p>\n   </th>\n  </tr>\n </thead>\n <tbody>\n  <tr>\n   <td>\n    <img src=\"images/i-missed_call.png\"/>\n   </td>\n   <td>\n    Missed call\n   </td>\n  </tr>\n  <tr>\n   <td>\n    <img src=\"images/i-call_in_progress_notification.png\"/>\n   </td>\n   <td>\n    Call in progress\n   </td>\n  </tr>\n  <tr>\n   <td>\n    <img src=\"images/i-on_hold_notification.png\"/>\n   </td>\n   <td>\n    Call on hold\n   </td>\n  </tr>\n  <tr>\n   <td>\n    <img src=\"images/i-email-notification.png\"/>\n   </td>\n   <td>\n    New email\n   </td>\n  </tr>\n  <tr>\n   <td>\n    <img src=\"images/i-status_voicemail.png\"/>\n   </td>\n   <td>\n    New voicemail\n   </td>\n  </tr>\n  <tr>\n   <td>\n    <img src=\"images/i-message-notification.png\"/>\n   </td>\n   <td>\n    New message\n   </td>\n  </tr>\n  <tr>\n   <td>\n    <img src=\"images/i-status_download_star.png\"/>\n   </td>\n   <td>\n    File download in progress\n   </td>\n  </tr>\n  <tr>\n   <td>\n    <img src=\"images/i-status_upload_star.png\"/>\n   </td>\n   <td>\n    File upload in progress\n   </td>\n  </tr>\n  <tr>\n   <td>\n    <img src=\"images/i-wi-fi_available.png\"/>\n   </td>\n   <td>\n    Wi-Fi available\n   </td>\n  </tr>\n  <tr>\n   <td>\n    <img src=\"images/i-notification_update_available.png\"/>\n   </td>\n   <td>\n    App updates available\n   </td>\n  </tr>\n </tbody>\n</table>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/status_bar_tid1e1201.html",
+    "section_hierarchy": "section_5>section_10",
+    "id": "section_10"
+  },
+  "section_11": {
+    "title": "Notification panel",
+    "text": [
+      "Notification panel"
+    ],
+    "html": [
+      "<h2 id=\"notification_panel\">\n Notification panel\n</h2>\n",
+      "<img class=\"block\" src=\"images/notification_panel.png\"/>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/notification_panel_tid1e1507.html",
+    "section_hierarchy": "section_5>section_11",
+    "id": "section_11"
+  },
+  "section_12": {
+    "title": "Edge screen",
+    "text": [
+      "Edge screen",
+      "The Edge screen provides a variety of useful tools for notifications, information feeds, and timekeeping.",
+      "This feature is only available on the Galaxy S7 edge."
+    ],
+    "html": [
+      "<h2 id=\"edge_screen_1\">\n Edge screen\n</h2>\n",
+      "<p>\n The Edge screen provides a variety of useful tools for notifications, information feeds, and timekeeping. This feature is only available on the Galaxy S7 edge.\n</p>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/edge_screen_1_tid1e1593.html",
+    "section_hierarchy": "section_5>section_12",
+    "id": "section_12"
+  },
+  "section_13": {
+    "title": "Always On Display",
+    "text": [
+      "Always On Display",
+      "View missed calls and message alerts, check the time and date, and view other customized information without unlocking your device.",
+      "From Settings, tap Lock screen and security> Always On Display.",
+      "Tap On/Off to enable the feature, and then set the following options:",
+      "Show always: Enable to show the Always On Display at all times.",
+      "Set schedule: If Show always is disabled, then set a schedule for when to start and end Always On Display.",
+      "About Always On Display: View the current software version and license information.",
+      "Some display settings can appear on both the Lock screen and Always On Display (AOD)."
+    ],
+    "html": [
+      "<h2 id=\"always_on_display\">\n Always On Display\n</h2>\n",
+      "<p>\n View missed calls and message alerts, check the time and date, and view other customized information without unlocking your device.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Lock screen\n  </b>\n  <b>\n   and security\n  </b>\n  &gt;\n  <b>\n   Always On Display\n  </b>\n  .\n </li>\n <li>\n  Tap\n  <b>\n   On/Off\n  </b>\n  to enable the feature, and then set the following options:\n  <ul>\n   <li>\n    <b>\n     Show always\n    </b>\n    : Enable to show the Always On Display at all times.\n    <ul>\n     <li>\n      <b>\n       Set schedule\n      </b>\n      : If Show always is disabled, then set a schedule for when to start and end Always On Display.\n     </li>\n    </ul>\n   </li>\n   <li>\n    <b>\n     About Always On Display\n    </b>\n    : View the current software version and license information.\n   </li>\n  </ul>\n </li>\n</ol>\n",
+      "<p>\n Some display settings can appear on both the Lock screen and Always On Display (AOD).\n</p>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/always_on_display_tid1e2217.html",
+    "section_hierarchy": "section_5>section_13",
+    "id": "section_13"
+  },
+  "section_14": {
+    "title": "Fingerprint scanner",
+    "text": [
+      "Fingerprint scanner",
+      "Use fingerprint recognition as an alternative to entering passwords in certain apps.",
+      "You can also use your fingerprint to verify your identity when logging in to your Samsung account."
+    ],
+    "html": [
+      "<h2 id=\"fingerprint_scanner_2\">\n Fingerprint scanner\n</h2>\n",
+      "<p>\n Use fingerprint recognition as an alternative to entering passwords in certain apps. You can also use your fingerprint to verify your identity when logging in to your Samsung account.\n</p>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/fingerprint_scanner_2_tid1e2316.html",
+    "section_hierarchy": "section_5>section_14",
+    "id": "section_14"
+  },
+  "section_15": {
+    "title": "Multi window",
+    "text": [
+      "Multi window",
+      "Multitask by using two apps at the same time.",
+      "Apps that support Multi window can be displayed together on a split screen.",
+      "You can switch between the apps and adjust the size of their windows.",
+      "From any screen, touch and hold Recent apps.",
+      "Tap Multi window in the title bar to launch an app in split screen view.",
+      "Recently opened apps are displayed in the lower window.",
+      "Apps that support Multi window have the Multi window icon in their title bar.",
+      "If there are no recently opened apps that support Multi window, or if you want to launch a different app, tap App list.",
+      "Tap an app in the lower window to add it to the split screen view."
+    ],
+    "html": [
+      "<h2 id=\"multi_window\">\n Multi window\n</h2>\n",
+      "<p>\n Multitask by using two apps at the same time. Apps that support Multi window can be displayed together on a split screen. You can switch between the apps and adjust the size of their windows.\n</p>\n",
+      "<ol>\n <li>\n  From any screen, touch and hold\n  <img src=\"images/i-recent_3.png\"/>\n  <b>\n   Recent apps\n  </b>\n  .\n </li>\n <li>\n  Tap\n  <img src=\"images/i-multi_window.png\"/>\n  <b>\n   Multi window\n  </b>\n  in the title bar to launch an app in split screen view.\n  <ul>\n   <li>\n    Recently opened apps are displayed in the lower window. Apps that support Multi window have the\n    <b>\n     <img src=\"images/i-multi_window.png\"/>\n     Multi window\n    </b>\n    icon in their title bar.\n   </li>\n   <li>\n    If there are no recently opened apps that support Multi window, or if you want to launch a different app, tap\n    <b>\n     App list\n    </b>\n    .\n   </li>\n  </ul>\n </li>\n <li>\n  Tap an app in the lower window to add it to the split screen view.\n  <img class=\"block\" src=\"images/multi_window.png\"/>\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/multi_window_tid1e2452.html",
+    "section_hierarchy": "section_5>section_15",
+    "id": "section_15"
+  },
+  "section_16": {
+    "title": "Enter text",
+    "text": [
+      "Enter text",
+      "Text can be entered using a keyboard or your voice.",
+      "Tap a field to display the Samsung keyboard.",
+      "Tap Show predictive text to view suggested words while you type.",
+      "Tap Show toolbar functions to view all keyboard options."
+    ],
+    "html": [
+      "<h2 id=\"enter_text\">\n Enter text\n</h2>\n",
+      "<p>\n Text can be entered using a keyboard or your voice.\n</p>\n",
+      "<img class=\"block\" src=\"images/samsung_keyboard.png\"/>\n",
+      "<ul class=\"single-step\">\n <li>\n  Tap a field to display the Samsung keyboard.\n  <ul>\n   <li>\n    Tap\n    <img src=\"images/i-samsung_keyboard_toggle_to_text.png\"/>\n    <b>\n     Show predictive text\n    </b>\n    to view suggested words while you type.\n   </li>\n   <li>\n    Tap\n    <img src=\"images/i-samsung_keyboard_toggle_to_more.png\"/>\n    <b>\n     Show toolbar functions\n    </b>\n    to view all keyboard options.\n   </li>\n  </ul>\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/enter_text_tid1e2589.html",
+    "section_hierarchy": "section_5>section_16",
+    "id": "section_16"
+  },
+  "section_17": {
+    "title": "Emergency mode",
+    "text": [
+      "Emergency mode",
+      "Use Emergency mode to access helpful emergency features and conserve your devices power during an emergency situation.",
+      "To save battery power, Emergency mode:",
+      "Restricts application usage to only essential applications and those you select.",
+      "Turns off connectivity features and Mobile data when the screen is off."
+    ],
+    "html": [
+      "<h2 id=\"emergency_mode\">\n Emergency mode\n</h2>\n",
+      "<p>\n Use Emergency mode to access helpful emergency features and conserve your device\u00e2\u0080\u0099s power during an emergency situation.\n</p>\n",
+      "<p>\n To save battery power, Emergency mode:\n</p>\n",
+      "<ul>\n <li>\n  Restricts application usage to only essential applications and those you select.\n </li>\n <li>\n  Turns off connectivity features and Mobile data when the screen is off.\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/emergency_mode_tid1e2809.html",
+    "section_hierarchy": "section_5>section_17",
+    "id": "section_17"
+  },
+  "section_18": {
+    "title": "Using apps",
+    "text": [
+      "Using apps",
+      "The Apps list displays all preloaded and downloaded apps.",
+      "You can uninstall, disable, or hide apps from view."
+    ],
+    "html": [
+      "<h2 id=\"using_apps\">\n Using apps\n</h2>\n",
+      "<p>\n The Apps list displays all preloaded and downloaded apps. You can uninstall, disable, or hide apps from view.\n</p>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/using_apps_tid1e3004.html",
+    "section_hierarchy": "section_18",
+    "id": "section_18"
+  },
+  "section_19": {
+    "title": "Samsung apps",
+    "text": [
+      "Samsung apps",
+      "The following apps come pre-installed or downloaded over-the-air to your device."
+    ],
+    "html": [
+      "<h2 id=\"samsung_apps\">\n Samsung apps\n</h2>\n",
+      "<p>\n The following apps come pre-installed or downloaded over-the-air to your device.\n</p>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/samsung_apps_tid1e3490.html",
+    "section_hierarchy": "section_19",
+    "id": "section_19"
+  },
+  "section_20": {
+    "title": "Google apps",
+    "text": [
+      "Google apps",
+      "Enjoy these apps from Google.",
+      "Certain apps require a Google Account.",
+      "Visit to learn more.",
+      "google.com",
+      "Chrome",
+      "Browse the Internet with Chrome and bring your open tabs, bookmarks, and address bar data from your computer to your mobile device.",
+      "Visit to learn more.",
+      "support.google.com/chrome",
+      "Drive",
+      "Open, view, rename, and share files saved to your Google Drive cloud account.",
+      "Visit to learn more.",
+      "support.google.com/drive",
+      "Gmail",
+      "Send and receive email with Googles web-based email service.",
+      "Visit to learn more.",
+      "support.google.com/mail",
+      "Google",
+      "Find online content with tools that learn what interests you.",
+      "Turn on your personalized feed to receive customized content.",
+      "Hangouts",
+      "Meet friends and family online, share photos, host video calls, and send SMS and Hangoutsmessages.",
+      "Visit to learn more.",
+      "hangouts.google.com",
+      "Maps",
+      "Get directions and other location-based information.",
+      "You must enable location services to use Google Maps.",
+      "For more information, see .",
+      "Location",
+      "Visit to learn more.",
+      "support.google.com/maps",
+      "Photos",
+      "Store and back up your photos and videos automatically to your Google Account with Google Photos.",
+      "Visit to learn more.",
+      "support.google.com/photos",
+      "Play Movies & TV",
+      "Watch movies and TV shows purchased from Google Play.",
+      "You can also view videos saved on your device.",
+      "Visit to learn more.",
+      "play.google.com/store/movies",
+      "Play Music",
+      "Play music and audio files on your device.",
+      "Visit to learn more.",
+      "support.google.com/music",
+      "Play Store",
+      "Find new apps, movies and TV shows, music, books, magazines, and games in the Google Play store.",
+      "Visit to learn more.",
+      "support.google.com/play",
+      "YouTube",
+      "Watch and upload YouTube videos right from your device.",
+      "Visit to learn more.",
+      "support.google.com/youtube"
+    ],
+    "html": [
+      "<h2 id=\"google_apps\">\n Google apps\n</h2>\n",
+      "<p>\n Enjoy these apps from Google. Certain apps require a Google Account. Visit\n <a href=\"https://www.google.com/\">\n  google.com\n </a>\n to learn more.\n</p>\n",
+      "<table>\n <col/>\n <col/>\n <tbody>\n  <tr>\n   <td>\n    <img class=\"app-icon\" src=\"images/a-chrome.png\"/>\n   </td>\n   <td>\n    <h3 id=\"chrome\">\n     Chrome\n    </h3>\n    <p>\n     Browse the Internet with Chrome\u2122 and bring your open tabs, bookmarks, and address bar data from your computer to your mobile device.\n    </p>\n    <p>\n     Visit\n     <a href=\"https://support.google.com/chrome\">\n      support.google.com/chrome\n     </a>\n     to learn more.\n    </p>\n   </td>\n  </tr>\n </tbody>\n</table>\n",
+      "<table>\n <col/>\n <col/>\n <tbody>\n  <tr>\n   <td>\n    <img class=\"app-icon\" src=\"images/a-drive.png\"/>\n   </td>\n   <td>\n    <h3 id=\"drive\">\n     Drive\n    </h3>\n    <p>\n     Open, view, rename, and share files saved to your Google Drive\u2122 cloud account.\n    </p>\n    <p>\n     Visit\n     <a href=\"https://support.google.com/drive\">\n      support.google.com/drive\n     </a>\n     to learn more.\n    </p>\n   </td>\n  </tr>\n </tbody>\n</table>\n",
+      "<table>\n <col/>\n <col/>\n <tbody>\n  <tr>\n   <td>\n    <img class=\"app-icon\" src=\"images/a-gmail.png\"/>\n   </td>\n   <td>\n    <h3 id=\"gmail\">\n     Gmail\n    </h3>\n    <p>\n     Send and receive email with Google\u00e2\u0080\u0099s web-based email service.\n    </p>\n    <p>\n     Visit\n     <a href=\"https://support.google.com/mail\">\n      support.google.com/mail\n     </a>\n     to learn more.\n    </p>\n   </td>\n  </tr>\n </tbody>\n</table>\n",
+      "<table>\n <col/>\n <col/>\n <tbody>\n  <tr>\n   <td>\n    <img class=\"app-icon\" src=\"images/a-google_app.png\"/>\n   </td>\n   <td>\n    <h3 id=\"google\">\n     Google\n    </h3>\n    <p>\n     Find online content with tools that learn what interests you. Turn on your personalized feed to receive customized content.\n    </p>\n   </td>\n  </tr>\n </tbody>\n</table>\n",
+      "<table>\n <col/>\n <col/>\n <tbody>\n  <tr>\n   <td>\n    <img class=\"app-icon\" src=\"images/a-hangouts.png\"/>\n   </td>\n   <td>\n    <h3 id=\"hangouts\">\n     Hangouts\n    </h3>\n    <p>\n     Meet friends and family online, share photos, host video calls, and send SMS and Hangouts\u2122messages.\n    </p>\n    <p>\n     Visit\n     <a href=\"https://hangouts.google.com/\">\n      hangouts.google.com\n     </a>\n     to learn more.\n    </p>\n   </td>\n  </tr>\n </tbody>\n</table>\n",
+      "<table>\n <col/>\n <tbody>\n  <tr>\n   <td>\n    <img class=\"app-icon\" src=\"images/a-google_maps.png\"/>\n   </td>\n   <td>\n    <h3 id=\"maps\">\n     Maps\n    </h3>\n    <p>\n     Get directions and other location-based information. You must enable location services to use Google Maps. For more information, see\n     <a href=\"location_tid1e10367.html#location\">\n      Location\n     </a>\n     .\n    </p>\n    <p>\n     Visit\n     <a href=\"https://support.google.com/maps\">\n      support.google.com/maps\n     </a>\n     to learn more.\n    </p>\n   </td>\n  </tr>\n </tbody>\n</table>\n",
+      "<table>\n <col/>\n <col/>\n <tbody>\n  <tr>\n   <td>\n    <img class=\"app-icon\" src=\"images/a-google_photos.png\"/>\n   </td>\n   <td>\n    <h3 id=\"photos\">\n     Photos\n    </h3>\n    <p>\n     Store and back up your photos and videos automatically to your Google Account with Google Photos\u2122.\n    </p>\n    <p>\n     Visit\n     <a href=\"https://support.google.com/photos\">\n      support.google.com/photos\n     </a>\n     to learn more.\n    </p>\n   </td>\n  </tr>\n </tbody>\n</table>\n",
+      "<table>\n <col/>\n <col/>\n <tbody>\n  <tr>\n   <td>\n    <img class=\"app-icon\" src=\"images/a-google_play_movies.png\"/>\n   </td>\n   <td>\n    <h3 id=\"play_movies_tv\">\n     Play Movies &amp; TV\n    </h3>\n    <p>\n     Watch movies and TV shows purchased from Google Play. You can also view videos saved on your device.\n    </p>\n    <p>\n     Visit\n     <a href=\"http://play.google.com/store/movies\">\n      play.google.com/store/movies\n     </a>\n     to learn more.\n    </p>\n   </td>\n  </tr>\n </tbody>\n</table>\n",
+      "<table>\n <col/>\n <col/>\n <tbody>\n  <tr>\n   <td>\n    <img class=\"app-icon\" src=\"images/a-google_play_music.png\"/>\n   </td>\n   <td>\n    <h3 id=\"play_music\">\n     Play Music\n    </h3>\n    <p>\n     Play music and audio files on your device.\n    </p>\n    <p>\n     Visit\n     <a href=\"https://support.google.com/googleplay/topic/6230690?visit_id=0-636252122498141913-598776829amprd=1\">\n      support.google.com/music\n     </a>\n     to learn more.\n    </p>\n   </td>\n  </tr>\n </tbody>\n</table>\n",
+      "<table>\n <col/>\n <col/>\n <tbody>\n  <tr>\n   <td>\n    <img class=\"app-icon\" src=\"images/a-google_play_store.png\"/>\n   </td>\n   <td>\n    <h3 id=\"play_store\">\n     Play Store\n    </h3>\n    <p>\n     Find new apps, movies and TV shows, music, books, magazines, and games in the Google Play\u2122 store.\n    </p>\n    <p>\n     Visit\n     <a href=\"https://support.google.com/googleplay\">\n      support.google.com/play\n     </a>\n     to learn more.\n    </p>\n   </td>\n  </tr>\n </tbody>\n</table>\n",
+      "<table>\n <col/>\n <col/>\n <tbody>\n  <tr>\n   <td>\n    <img class=\"app-icon\" src=\"images/a-google_youtube.png\"/>\n   </td>\n   <td>\n    <h3 id=\"youtube\">\n     YouTube\n    </h3>\n    <p>\n     Watch and upload YouTube\u2122 videos right from your device.\n    </p>\n    <p>\n     Visit\n     <a href=\"https://support.google.com/youtube\">\n      support.google.com/youtube\n     </a>\n     to learn more.\n    </p>\n   </td>\n  </tr>\n </tbody>\n</table>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/google_apps_tid1e8765.html",
+    "section_hierarchy": "section_20",
+    "id": "section_20"
+  },
+  "section_21": {
+    "title": "Access Settings",
+    "text": [
+      "Access Settings",
+      "There are a couple of ways to access your device settings.",
+      "From a Home screen, swipe up to access Apps, and then tap Settings.",
+      " or",
+      "Drag down from the Status bar to display the Notification panel, and then tap Settings."
+    ],
+    "html": [
+      "<h2 id=\"access_settings\">\n Access Settings\n</h2>\n",
+      "<p>\n There are a couple of ways to access your device settings.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From a Home screen, swipe up to access\n  <b>\n   Apps\n  </b>\n  , and then tap\n  <b>\n   <img src=\"images/a-settings.png\"/>\n   Settings\n  </b>\n  .\n  <p>\n   \u00e2\u0080\u0093 or \u00e2\u0080\u0093\n  </p>\n  <p>\n   Drag down from the Status bar to display the Notification panel, and then tap\n   <img src=\"images/i-notification_panel_settings.png\"/>\n   <b>\n    Settings\n   </b>\n   .\n  </p>\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/access_settings_tid1e9143.html",
+    "section_hierarchy": "section_21",
+    "id": "section_21"
+  },
+  "section_22": {
+    "title": "Connections",
+    "text": [
+      "Connections",
+      "Manage connections between your device and a variety of networks and other devices."
+    ],
+    "html": [
+      "<h2 class=\"subsection\" id=\"connections\">\n Connections\n</h2>\n",
+      "<p>\n Manage connections between your device and a variety of networks and other devices.\n</p>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/connections_tid1e9277.html",
+    "section_hierarchy": "section_22",
+    "id": "section_22"
+  },
+  "section_23": {
+    "title": "Wi-Fi",
+    "text": [
+      "Wi-Fi",
+      "Connect your device to a Wi-Fi network.",
+      "From Settings, tap Connections > Wi-Fi, and then tap On/Off to turn on Wi-Fi.",
+      "When Wi-Fi is turned on, your device automatically scans for available networks and displays them.",
+      "Tap the network you want to connect to.",
+      "When you select an open network, you are automatically connected to the network.",
+      "Otherwise, enter a password to connect."
+    ],
+    "html": [
+      "<h2 id=\"wi-fi\">\n Wi-Fi\n</h2>\n",
+      "<p>\n Connect your device to a Wi-Fi network.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Connections\n  </b>\n  &gt;\n  <b>\n   Wi-Fi\n  </b>\n  , and then tap\n  <b>\n   On/Off\n  </b>\n  to turn on Wi-Fi.\n  <ul>\n   <li>\n    When Wi-Fi is turned on, your device automatically scans for available networks and displays them.\n   </li>\n  </ul>\n </li>\n <li>\n  Tap the network you want to connect to.\n  <ul>\n   <li>\n    When you select an open network, you are automatically connected to the network. Otherwise, enter a password to connect.\n   </li>\n  </ul>\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/wi-fi_tid1e9246.html",
+    "section_hierarchy": "section_22>section_23",
+    "id": "section_23"
+  },
+  "section_24": {
+    "title": "Bluetooth",
+    "text": [
+      "Bluetooth",
+      "Bluetooth allows you to pair your device to another Bluetooth-enabled device.",
+      "Once a pairing is created, the devices continue to recognize their partnership and exchange information without having to re-enter a passcode.",
+      "From Settings, tap Connections > Bluetooth, and then tap On/Off to turn on Bluetooth.",
+      "Your device scans for discoverable Bluetooth devices.",
+      "To scan again, tap Scan.",
+      "Tap a device, and follow the prompts to connect."
+    ],
+    "html": [
+      "<h2 id=\"bluetooth\">\n Bluetooth\n</h2>\n",
+      "<p>\n Bluetooth allows you to pair your device to another Bluetooth-enabled device. Once a pairing is created, the devices continue to recognize their partnership and exchange information without having to re-enter a passcode.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Connections\n  </b>\n  &gt;\n  <b>\n   Bluetooth\n  </b>\n  , and then tap\n  <b>\n   <b>\n    On/Off\n   </b>\n  </b>\n  to turn on Bluetooth.\n  <ul>\n   <li>\n    Your device scans for discoverable Bluetooth devices. To scan again, tap\n    <b>\n     Scan\n    </b>\n    .\n   </li>\n  </ul>\n </li>\n <li>\n  Tap a device, and follow the prompts to connect.\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/bluetooth_tid1e9598.html",
+    "section_hierarchy": "section_22>section_24",
+    "id": "section_24"
+  },
+  "section_25": {
+    "title": "Phone visibility",
+    "text": [
+      "Phone visibility",
+      "Allow other devices to find your mobile device and transfer files.",
+      "From Settings, tap Connections > Phone visibility, and then tap On/Off."
+    ],
+    "html": [
+      "<h2 id=\"phone_visibility\">\n Phone visibility\n</h2>\n",
+      "<p>\n Allow other devices to find your mobile device and transfer files.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Connections\n  </b>\n  &gt;\n  <b>\n   Phone\n  </b>\n  <b>\n   visibility\n  </b>\n  , and then tap\n  <b>\n   On/Off\n  </b>\n  .\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/phone_visibility_tid1e9786.html",
+    "section_hierarchy": "section_22>section_25",
+    "id": "section_25"
+  },
+  "section_26": {
+    "title": "Data usage",
+    "text": [
+      "Data usage",
+      "View your current mobile and Wi-Fi data usage.",
+      "From Settings, tap Connections > Data usage."
+    ],
+    "html": [
+      "<h2 id=\"data_usage\">\n Data usage\n</h2>\n",
+      "<p>\n View your current mobile and Wi-Fi data usage.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Connections\n  </b>\n  &gt;\n  <b>\n   Data usage\n  </b>\n  .\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/data_usage_tid1e9817.html",
+    "section_hierarchy": "section_22>section_26",
+    "id": "section_26"
+  },
+  "section_27": {
+    "title": "Airplane mode",
+    "text": [
+      "Airplane mode",
+      "Airplane mode disconnects your device from all networks and turns off connectivity features.",
+      "From Settings, tap Connections > Airplane mode.",
+      "Tap On/Off to enable this feature."
+    ],
+    "html": [
+      "<h2 id=\"airplane_mode\">\n Airplane mode\n</h2>\n",
+      "<p>\n Airplane mode disconnects your device from all networks and turns off connectivity features.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Connections\n  </b>\n  &gt;\n  <b>\n   Airplane mode\n  </b>\n  .\n </li>\n <li>\n  Tap\n  <b>\n   On/Off\n  </b>\n  to enable this feature.\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/airplane_mode_tid1e9879.html",
+    "section_hierarchy": "section_22>section_27",
+    "id": "section_27"
+  },
+  "section_28": {
+    "title": "NFC and payment",
+    "text": [
+      "NFC and payment",
+      "NFC (Near Field Communication) allows data exchange when you touch your device with another compatible device.",
+      "From Settings, tap Connections > NFC and payment.",
+      "Tap On/Off to enable this feature."
+    ],
+    "html": [
+      "<h2 id=\"nfc_and_payment\">\n NFC and payment\n</h2>\n",
+      "<p>\n NFC (Near Field Communication) allows data exchange when you touch your device with another compatible device.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Connections\n  </b>\n  &gt;\n  <b>\n   NFC and payment\n  </b>\n  .\n </li>\n <li>\n  Tap\n  <b>\n   On/Off\n  </b>\n  to enable this feature.\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/nfc_and_payment_tid1e9908.html",
+    "section_hierarchy": "section_22>section_28",
+    "id": "section_28"
+  },
+  "section_29": {
+    "title": "Mobile hotspot",
+    "text": [
+      "Mobile hotspot",
+      "Activate Mobile hotspot to allow other devices to use your devices Internet connection.",
+      "From Settings, tap Connections > Mobile hotspot and tethering > Mobile hotspot.",
+      "Tap On/Off to turn on Mobile hotspot.",
+      "Activate Wi-Fi on the target device.",
+      "Scan for Wi-Fi hotspots and select your devices Mobile hotspot.",
+      "Enter your devices Mobile hotspot password on the target device."
+    ],
+    "html": [
+      "<h2 id=\"mobile_hotspot\">\n Mobile hotspot\n</h2>\n",
+      "<p>\n Activate Mobile hotspot to allow other devices to use your device\u00e2\u0080\u0099s Internet connection.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Connections\n  </b>\n  &gt;\n  <b>\n   Mobile hotspot and tethering\n  </b>\n  &gt;\n  <b>\n   Mobile hotspot\n  </b>\n  .\n </li>\n <li>\n  Tap\n  <b>\n   On/Off\n  </b>\n  to turn on Mobile hotspot.\n </li>\n <li>\n  Activate Wi-Fi on the target device.\n </li>\n <li>\n  Scan for Wi-Fi hotspots and select your device\u00e2\u0080\u0099s Mobile hotspot.\n </li>\n <li>\n  Enter your device\u00e2\u0080\u0099s Mobile hotspot password on the target device.\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/mobile_hotspot_tid1e10052.html",
+    "section_hierarchy": "section_22>section_29",
+    "id": "section_29"
+  },
+  "section_30": {
+    "title": "Tethering",
+    "text": [
+      "Tethering",
+      "You can use tethering to share your devices Internet connection with a computer.",
+      "From Settings, tap Connections > Mobile hotspot and tethering.",
+      "Tap an option:",
+      "Tap Bluetooth tethering to share your devices Internet connection using Bluetooth.",
+      "Connect the computer to the device using a USB cable, and then tap USB tethering."
+    ],
+    "html": [
+      "<h2 id=\"tethering\">\n Tethering\n</h2>\n",
+      "<p>\n You can use tethering to share your device\u00e2\u0080\u0099s Internet connection with a computer.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Connections\n  </b>\n  &gt;\n  <b>\n   Mobile hotspot and tethering\n  </b>\n  .\n </li>\n <li>\n  Tap an option:\n  <ul>\n   <li>\n    Tap\n    <b>\n     Bluetooth tethering\n    </b>\n    to share your device\u00e2\u0080\u0099s Internet connection using Bluetooth.\n   </li>\n   <li>\n    Connect the computer to the device using a USB cable, and then tap\n    <b>\n     USB tethering\n    </b>\n    .\n   </li>\n  </ul>\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/tethering_tid1e10325.html",
+    "section_hierarchy": "section_22>section_30",
+    "id": "section_30"
+  },
+  "section_31": {
+    "title": "Location",
+    "text": [
+      "Location",
+      "Some apps may require one or more location services be turned on for full functionality.",
+      "From Settings, tap Connections > Location.",
+      "Tap On/Off to turn on Location services.",
+      "Tap Locating method to select how your location is determined:",
+      "High accuracy: Uses GPS, Wi-Fi, and mobile networks.",
+      "Battery saving: Uses Wi-Fi and mobile networks (no GPS).",
+      "Phone only: Uses GPS only.",
+      "Tap Improve accuracy to use other connections for determining your location:",
+      "Wi-Fi scanning: Allow apps and services to scan for Wi-Fi networks automatically, even when Wi-Fi is turned off.",
+      "Bluetooth scanning: Allow apps to scan for and connect to nearby devices automatically through Bluetooth, even when Bluetooth is turned off."
+    ],
+    "html": [
+      "<h2 id=\"location\">\n Location\n</h2>\n",
+      "<p>\n Some apps may require one or more location services be turned on for full functionality.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Connections\n  </b>\n  &gt;\n  <b>\n   Location\n  </b>\n  .\n </li>\n <li>\n  Tap\n  <b>\n   On/Off\n  </b>\n  to turn on Location services.\n </li>\n <li>\n  Tap\n  <b>\n   Locating method\n  </b>\n  to select how your location is determined:\n  <ul>\n   <li>\n    <b>\n     High accuracy\n    </b>\n    : Uses GPS, Wi-Fi, and mobile networks.\n   </li>\n   <li>\n    <b>\n     Battery saving\n    </b>\n    : Uses Wi-Fi and mobile networks (no GPS).\n   </li>\n   <li>\n    <b>\n     Phone only\n    </b>\n    : Uses GPS only.\n   </li>\n  </ul>\n </li>\n <li>\n  Tap\n  <b>\n   Improve accuracy\n  </b>\n  to use other connections for determining your location:\n  <ul>\n   <li>\n    <b>\n     Wi-Fi scanning\n    </b>\n    : Allow apps and services to scan for Wi-Fi networks automatically, even when Wi-Fi is turned off.\n   </li>\n   <li>\n    <b>\n     Bluetooth scanning\n    </b>\n    : Allow apps to scan for and connect to nearby devices automatically through Bluetooth, even when Bluetooth is turned off.\n   </li>\n  </ul>\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/location_tid1e10367.html",
+    "section_hierarchy": "section_22>section_31",
+    "id": "section_31"
+  },
+  "section_32": {
+    "title": "Nearby device scanning",
+    "text": [
+      "Nearby device scanning",
+      "Scan for nearby devices to connect to and set them up easily.",
+      "You receive a notification when there are available devices to connect to.",
+      "From Settings, tap Connections > More connection settings > Nearby device scanning.",
+      "Tap On/Off to enable the feature."
+    ],
+    "html": [
+      "<h2 id=\"nearby_device_scanning\">\n Nearby device scanning\n</h2>\n",
+      "<p>\n Scan for nearby devices to connect to and set them up easily. You receive a notification when there are available devices to connect to.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Connections\n  </b>\n  &gt;\n  <b>\n   More connection settings\n  </b>\n  &gt;\n  <b>\n   Nearby device scanning\n  </b>\n  .\n </li>\n <li>\n  Tap\n  <b>\n   On/Off\n  </b>\n  to enable the feature.\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/nearby_device_scanning_tid1e10509.html",
+    "section_hierarchy": "section_22>section_32",
+    "id": "section_32"
+  },
+  "section_33": {
+    "title": "Connect to a printer",
+    "text": [
+      "Connect to a printer",
+      "Connect your device to a printer on the same Wi-Fi network.",
+      "From Settings, tap Connections > More connection settings > Printing.",
+      "Tap Add service and follow the prompts to add a print service.",
+      "Tap the print service, and then tap More options > Add printer."
+    ],
+    "html": [
+      "<h2 id=\"connect_to_a_printer\">\n Connect to a printer\n</h2>\n",
+      "<p>\n Connect your device to a printer on the same Wi-Fi network.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Connections\n  </b>\n  &gt;\n  <b>\n   More connection settings\n  </b>\n  &gt;\n  <b>\n   Printing\n  </b>\n  .\n </li>\n <li>\n  Tap\n  <img src=\"images/i-generic_add.png\"/>\n  <b>\n   Add service\n  </b>\n  and follow the prompts to add a print service.\n </li>\n <li>\n  <p>\n   Tap the print service, and then tap\n   <img src=\"images/i-more_options.png\"/>\n   <b>\n    More options\n   </b>\n   &gt;\n   <b>\n    Add printer\n   </b>\n   .\n  </p>\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/connect_to_a_printer_tid1e10542.html",
+    "section_hierarchy": "section_22>section_33",
+    "id": "section_33"
+  },
+  "section_34": {
+    "title": "MirrorLink",
+    "text": [
+      "MirrorLink",
+      "Mirror your devices display on your cars entertainment and information screen using a USB connection.",
+      "To use this feature, your car system must support MirrorLink.",
+      "For more information, visit .",
+      "mirrorlink.com",
+      "Connect your device to your cars system using the USB cable.",
+      "From Settings, tap Connections > More connection settings > MirrorLink.",
+      "Tap Connect to car via USB, and follow the prompts."
+    ],
+    "html": [
+      "<h2 id=\"mirrorlink\">\n MirrorLink\n</h2>\n",
+      "<p>\n Mirror your device\u00e2\u0080\u0099s display on your car\u00e2\u0080\u0099s entertainment and information screen using a USB connection.\n</p>\n",
+      "<p>\n To use this feature, your car system must support MirrorLink\u2122. For more information, visit\n <a href=\"http://www.mirrorlink.com/\">\n  mirrorlink.com\n </a>\n .\n</p>\n",
+      "<ol>\n <li>\n  Connect your device to your car\u00e2\u0080\u0099s system using the USB cable.\n </li>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Connections\n  </b>\n  &gt;\n  <b>\n   More connection settings\n  </b>\n  &gt;\n  <b>\n   MirrorLink\n  </b>\n  .\n </li>\n <li>\n  Tap\n  <b>\n   Connect to car via USB\n  </b>\n  , and follow the prompts.\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/mirrorlink_tid1e10590.html",
+    "section_hierarchy": "section_22>section_34",
+    "id": "section_34"
+  },
+  "section_35": {
+    "title": "Download booster",
+    "text": [
+      "Download booster",
+      "Download booster improves download speed by using both Wi-Fi and 4G LTE networks at the same time when downloading files over 30 MB in size.",
+      "Note: Download booster uses mobile data services.",
+      "To turn on Download booster:",
+      "From Settings, tap Connections > More connection settings > Download booster.",
+      "Tap On/Off to enable Download booster."
+    ],
+    "html": [
+      "<h2 id=\"download_booster\">\n Download booster\n</h2>\n",
+      "<p>\n Download booster improves download speed by using both Wi-Fi and 4G LTE networks at the same time when downloading files over 30 MB in size.\n</p>\n",
+      "<p>\n <b>\n  Note\n </b>\n : Download booster uses mobile data services.\n</p>\n",
+      "<p>\n To turn on Download booster:\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Connections\n  </b>\n  &gt;\n  <b>\n   More connection settings\n  </b>\n  &gt;\n  <b>\n   Download booster\n  </b>\n  .\n </li>\n <li>\n  Tap\n  <b>\n   On/Off\n  </b>\n  to enable Download booster.\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/download_booster_tid1e10632.html",
+    "section_hierarchy": "section_22>section_35",
+    "id": "section_35"
+  },
+  "section_36": {
+    "title": "Virtual Private Networks",
+    "text": [
+      "Virtual Private Networks",
+      "Set up and manage your Virtual Private Networks (VPNs).",
+      "You must set a secured screen lock before setting up a VPN.",
+      "For more information, see .",
+      "Set a secure screen lock",
+      "From Settings, tap Connections > More connection settings > VPN.",
+      "Tap Add VPN and follow the prompts to set up your VPN."
+    ],
+    "html": [
+      "<h2 id=\"virtual_private_networks\">\n Virtual Private Networks\n</h2>\n",
+      "<p>\n Set up and manage your Virtual Private Networks (VPNs). You must set a secured screen lock before setting up a VPN. For more information, see\n <a href=\"screen_lock_types_tid1e13020.html#set_a_secure_screen_lock\">\n  Set a secure screen lock\n </a>\n .\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Connections\n  </b>\n  &gt;\n  <b>\n   More connection settings\n  </b>\n  &gt;\n  <b>\n   VPN\n  </b>\n  .\n </li>\n <li>\n  Tap\n  <b>\n   Add VPN\n  </b>\n  and follow the prompts to set up your VPN.\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/virtual_private_networks_tid1e10674.html",
+    "section_hierarchy": "section_22>section_36",
+    "id": "section_36"
+  },
+  "section_37": {
+    "title": "Sounds and vibration",
+    "text": [
+      "Sounds and vibration",
+      "Configure the sounds and vibrations used to indicate notifications, screen touches, and other interactions."
+    ],
+    "html": [
+      "<h2 class=\"subsection\" id=\"sounds_and_vibration\">\n Sounds and vibration\n</h2>\n",
+      "<p>\n Configure the sounds and vibrations used to indicate notifications, screen touches, and other interactions.\n</p>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/sounds_and_vibration_tid1e10881.html",
+    "section_hierarchy": "section_37",
+    "id": "section_37"
+  },
+  "section_38": {
+    "title": "Sound mode",
+    "text": [
+      "Sound mode",
+      "Switch between sound modes, while preserving the individual sound settings you have made.",
+      "From Settings, tap Sounds and vibration > Sound mode, and then choose a mode:",
+      "Sound: Use the sounds, vibrations, and volume levels you have chosen in Sound settings for notifications and alerts.",
+      "Vibrate: Use vibration only for notifications and alerts.",
+      "Mute: Set your device to make no sounds.",
+      "Temporary mute: Set a time limit for muting the device."
+    ],
+    "html": [
+      "<h2 id=\"sound_mode\">\n Sound mode\n</h2>\n",
+      "<p>\n Switch between sound modes, while preserving the individual sound settings you have made.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Sounds and vibration\n  </b>\n  &gt;\n  <b>\n   Sound mode\n  </b>\n  , and then choose a mode:\n  <ul>\n   <li>\n    <b>\n     Sound\n    </b>\n    : Use the sounds, vibrations, and volume levels you have chosen in Sound settings for notifications and alerts.\n   </li>\n   <li>\n    <b>\n     Vibrate\n    </b>\n    : Use vibration only for notifications and alerts.\n   </li>\n   <li>\n    <b>\n     Mute\n    </b>\n    : Set your device to make no sounds.\n    <ul>\n     <li>\n      <b>\n       Temporary mute\n      </b>\n      : Set a time limit for muting the device.\n     </li>\n    </ul>\n   </li>\n  </ul>\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/sound_mode_tid1e10812.html",
+    "section_hierarchy": "section_37>section_38",
+    "id": "section_38"
+  },
+  "section_39": {
+    "title": "Vibrations",
+    "text": [
+      "Vibrations",
+      "Configure your devices vibrations.",
+      "From Settings, tap Sounds and vibration.",
+      "Tap options to customize:",
+      "Vibrate while ringing: Set your device to vibrate in addition to ringing when you receive a call.",
+      "Vibration intensity: Set vibration intensity levels for calls, notifications, and feedback by dragging the sliders.",
+      "Vibration pattern: Choose from preset vibration patterns."
+    ],
+    "html": [
+      "<h2 id=\"vibrations\">\n Vibrations\n</h2>\n",
+      "<p>\n Configure your device\u00e2\u0080\u0099s vibrations.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Sounds and vibration\n  </b>\n  .\n </li>\n <li>\n  Tap options to customize:\n  <ul>\n   <li>\n    <b>\n     Vibrate while ringing\n    </b>\n    : Set your device to vibrate in addition to ringing when you receive a call.\n   </li>\n   <li>\n    <b>\n     Vibration intensity\n    </b>\n    : Set vibration intensity levels for calls, notifications, and feedback by dragging the sliders.\n   </li>\n   <li>\n    <b>\n     Vibration pattern\n    </b>\n    : Choose from preset vibration patterns.\n   </li>\n  </ul>\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/vibrations_tid1e10892.html",
+    "section_hierarchy": "section_37>section_39",
+    "id": "section_39"
+  },
+  "section_40": {
+    "title": "Volume",
+    "text": [
+      "Volume",
+      "Set the volume level for call ringtones, notifications, and other audio.",
+      "From Settings, tap Sounds and vibration > Volume, and drag the sliders.",
+      "Note: You can also use the Volume key to adjust the volume.",
+      "Tap More to customize all volume options."
+    ],
+    "html": [
+      "<h2 id=\"volume\">\n Volume\n</h2>\n",
+      "<p>\n Set the volume level for call ringtones, notifications, and other audio.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Sounds and vibration\n  </b>\n  &gt;\n  <b>\n   Volume\n  </b>\n  , and drag the sliders.\n </li>\n</ul>\n",
+      "<p class=\"note\">\n <b>\n  Note\n </b>\n : You can also use the\n <b>\n  Volume\n </b>\n key to adjust the volume. Tap\n <img src=\"images/i-generic_expand.png\"/>\n <b>\n  More\n </b>\n to customize all volume options.\n</p>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/volume_tid1e10937.html",
+    "section_hierarchy": "section_37>section_40",
+    "id": "section_40"
+  },
+  "section_41": {
+    "title": "Ringtone",
+    "text": [
+      "Ringtone",
+      "Choose from preset ringtones or add your own.",
+      "From Settings, tap Sounds and vibration > Ringtone.",
+      "Tap a ringtone to hear a preview and select it.",
+      " or",
+      "Tap Add to use an audio file as a ringtone."
+    ],
+    "html": [
+      "<h2 id=\"ringtone\">\n Ringtone\n</h2>\n",
+      "<p>\n Choose from preset ringtones or add your own.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Sounds and vibration\n  </b>\n  &gt;\n  <b>\n   Ringtone\n  </b>\n  .\n </li>\n <li>\n  Tap a ringtone to hear a preview and select it.\n  <p>\n   \u00e2\u0080\u0093 or \u00e2\u0080\u0093\n  </p>\n  <p>\n   Tap\n   <b>\n    Add\n   </b>\n   to use an audio file as a ringtone.\n  </p>\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/ringtone_tid1e11056.html",
+    "section_hierarchy": "section_37>section_41",
+    "id": "section_41"
+  },
+  "section_42": {
+    "title": "Notification sounds",
+    "text": [
+      "Notification sounds",
+      "Customize notification sounds for certain apps or choose a default for all notifications.",
+      "From Settings, tap Sounds and vibration > Notification sounds and tap a sound to choose it."
+    ],
+    "html": [
+      "<h2 id=\"notification_sounds\">\n Notification sounds\n</h2>\n",
+      "<p>\n Customize notification sounds for certain apps or choose a default for all notifications.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Sounds and vibration\n  </b>\n  &gt;\n  <b>\n   Notification sounds\n  </b>\n  and tap a sound to choose it.\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/notification_sounds_tid1e11092.html",
+    "section_hierarchy": "section_37>section_42",
+    "id": "section_42"
+  },
+  "section_43": {
+    "title": "Do not disturb",
+    "text": [
+      "Do not disturb",
+      "Set your device to mute all or some notifications and sounds during specific time periods.",
+      "From Settings, tap Sounds and vibration > Do not disturb and configure the following:",
+      "Turn on now: Enable this option.",
+      "Turn on as scheduled: Configure Days, Start time, and End time to set up a do not disturb schedule.",
+      "Allow exceptions: Customize which notifications are allowed while your device is in Do not disturb mode.",
+      "App rules: Manage rules set by apps.",
+      "Hide visual notifications: Select options for preventing visual notifications for apps silenced by Do not disturb."
+    ],
+    "html": [
+      "<h2 id=\"do_not_disturb\">\n Do not disturb\n</h2>\n",
+      "<p>\n Set your device to mute all or some notifications and sounds during specific time periods.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Sounds and vibration\n  </b>\n  &gt;\n  <b>\n   Do not disturb\n  </b>\n  and configure the following:\n  <ul>\n   <li>\n    <b>\n     Turn on now\n    </b>\n    : Enable this option.\n   </li>\n   <li>\n    <b>\n     Turn on as scheduled\n    </b>\n    : Configure\n    <b>\n     Days\n    </b>\n    ,\n    <b>\n     Start time\n    </b>\n    , and\n    <b>\n     End time\n    </b>\n    to set up a do not disturb schedule.\n   </li>\n   <li>\n    <b>\n     Allow exceptions\n    </b>\n    : Customize which notifications are allowed while your device is in Do not disturb mode.\n   </li>\n   <li>\n    <b>\n     App rules\n    </b>\n    : Manage rules set by apps.\n   </li>\n   <li>\n    <b>\n     Hide visual notifications\n    </b>\n    : Select options for preventing visual notifications for apps silenced by Do not disturb.\n   </li>\n  </ul>\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/do_not_disturb_tid1e11115.html",
+    "section_hierarchy": "section_37>section_43",
+    "id": "section_43"
+  },
+  "section_44": {
+    "title": "System sounds",
+    "text": [
+      "System sounds",
+      "Set various other system sound options.",
+      "From Settings, tap Sounds and vibration",
+      "Touch sounds: Play tones when you touch or tap the screen to make selections.",
+      "Screen lock sounds: Play a sound when you unlock the screen.",
+      "Charging sound: Play a sound when a charger is connected.",
+      "Vibration feedback: Enable vibration when the navigation keys are tapped."
+    ],
+    "html": [
+      "<h2 id=\"system_sounds\">\n System sounds\n</h2>\n",
+      "<p>\n Set various other system sound options.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Sounds and vibration\n  </b>\n  <ul>\n   <li>\n    <b>\n     Touch sounds\n    </b>\n    : Play tones when you touch or tap the screen to make selections.\n   </li>\n   <li>\n    <b>\n     Screen lock sounds\n    </b>\n    : Play a sound when you unlock the screen.\n   </li>\n   <li>\n    <b>\n     Charging sound\n    </b>\n    : Play a sound when a charger is connected.\n   </li>\n   <li>\n    <b>\n     Vibration feedback\n    </b>\n    : Enable vibration when the navigation keys are tapped.\n   </li>\n  </ul>\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/system_sounds_tid1e11181.html",
+    "section_hierarchy": "section_37>section_44",
+    "id": "section_44"
+  },
+  "section_45": {
+    "title": "Key-tap feedback",
+    "text": [
+      "Key-tap feedback",
+      "Play tones when keys are tapped.",
+      "From Settings, tap Sounds and vibration, and then tap to enable each option:",
+      "Dialing keypad tones: Play a tone when the dialing keypad is tapped.",
+      "Keyboard sound: Play a sound when the Samsung keyboard is tapped.",
+      "Keyboard vibration: Enable vibrations when the Samsung keyboard is tapped."
+    ],
+    "html": [
+      "<h2 id=\"key-tap_feedback\">\n Key-tap feedback\n</h2>\n",
+      "<p>\n Play tones when keys are tapped.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Sounds and vibration\n  </b>\n  , and then tap to enable each option:\n  <ul>\n   <li>\n    <b>\n     Dialing keypad tones\n    </b>\n    : Play a tone when the dialing keypad is tapped.\n   </li>\n   <li>\n    <b>\n     Keyboard sound\n    </b>\n    : Play a sound when the Samsung keyboard is tapped.\n   </li>\n   <li>\n    <b>\n     Keyboard vibration\n    </b>\n    : Enable vibrations when the Samsung keyboard is tapped.\n   </li>\n  </ul>\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/key-tap_feedback_tid1e11228.html",
+    "section_hierarchy": "section_37>section_45",
+    "id": "section_45"
+  },
+  "section_46": {
+    "title": "Sound quality and effects",
+    "text": [
+      "Sound quality and effects",
+      "Choose from advanced sound options to customize your audio experience.",
+      "From Settings, tap Sounds and vibration > Sound quality and effects.",
+      "The following options are available:",
+      "Equalizer: Choose an audio preset that is customized to different genres of music.",
+      "Advanced/Basic: Manually adjust various sound qualities.",
+      "UHQ upscaler: Enhance the sound resolution of music and videos for a clearer listening experience.",
+      "Surround: Recreate the richness of surround sound.",
+      "Tube Amp Pro: Simulate the soft timbre of a tube amplifier.",
+      "Concert hall: Simulate the reverb of a concert hall.",
+      "Adapt Sound: Customize your sound settings."
+    ],
+    "html": [
+      "<h2 id=\"sound_quality_and_effects\">\n Sound quality and effects\n</h2>\n",
+      "<p>\n Choose from advanced sound options to customize your audio experience.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Sounds and vibration\n  </b>\n  &gt;\n  <b>\n   Sound quality and effects\n  </b>\n  . The following options are available:\n  <ul>\n   <li>\n    <b>\n     Equalizer\n    </b>\n    : Choose an audio preset that is customized to different genres of music.\n   </li>\n   <li>\n    <b>\n     Advanced/Basic\n    </b>\n    : Manually adjust various sound qualities.\n   </li>\n   <li>\n    <b>\n     UHQ upscaler\n    </b>\n    : Enhance the sound resolution of music and videos for a clearer listening experience.\n   </li>\n   <li>\n    <b>\n     Surround\n    </b>\n    : Recreate the richness of surround sound.\n   </li>\n   <li>\n    <b>\n     Tube Amp Pro\n    </b>\n    : Simulate the soft timbre of a tube amplifier.\n   </li>\n   <li>\n    <b>\n     Concert hall\n    </b>\n    : Simulate the reverb of a concert hall.\n   </li>\n   <li>\n    <b>\n     Adapt Sound\n    </b>\n    : Customize your sound settings.\n   </li>\n  </ul>\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/sound_quality_and_effects_tid1e11270.html",
+    "section_hierarchy": "section_37>section_46",
+    "id": "section_46"
+  },
+  "section_47": {
+    "title": "Separate app sound",
+    "text": [
+      "Separate app sound",
+      "You can choose to have an app play sound on a speaker or headphones separate from the rest of the sounds on your device.",
+      "From Settings, tap Sounds and vibration > Separate app sound.",
+      "Tap On/Off to enable Separate app sound, and then set the following options:",
+      "App: Choose an app to play its sound on a separate audio device.",
+      "Audio device: Choose the audio device that you want the apps sound to be played on."
+    ],
+    "html": [
+      "<h2 id=\"separate_app_sound\">\n Separate app sound\n</h2>\n",
+      "<p>\n You can choose to have an app play sound on a speaker or headphones separate from the rest of the sounds on your device.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Sounds and vibration\n  </b>\n  &gt;\n  <b>\n   Separate app sound\n  </b>\n  .\n </li>\n <li>\n  Tap\n  <b>\n   On/Off\n  </b>\n  to enable Separate app sound, and then set the following options:\n  <ul>\n   <li>\n    <b>\n     App\n    </b>\n    : Choose an app to play its sound on a separate audio device.\n   </li>\n   <li>\n    <b>\n     Audio device\n    </b>\n    : Choose the audio device that you want the app\u00e2\u0080\u0099s sound to be played on.\n   </li>\n  </ul>\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/separate_app_sound_tid1e11339.html",
+    "section_hierarchy": "section_37>section_47",
+    "id": "section_47"
+  },
+  "section_48": {
+    "title": "Notifications",
+    "text": [
+      "Notifications",
+      "Select which apps you want to receive alerts from.",
+      "Alerts include notifications, sounds, and vibrations."
+    ],
+    "html": [
+      "<h2 class=\"subsection\" id=\"notifications\">\n Notifications\n</h2>\n",
+      "<p>\n Select which apps you want to receive alerts from. Alerts include notifications, sounds, and vibrations.\n</p>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/notifications_tid1e11490.html",
+    "section_hierarchy": "section_48",
+    "id": "section_48"
+  },
+  "section_49": {
+    "title": "Manage notifications",
+    "text": [
+      "Manage notifications",
+      "Allow or block notifications from apps and services.",
+      "From Settings, tap Notifications.",
+      "To customize App icon badges, tap App icon badges.",
+      "To enable notifications, tap All apps, or tap On/Off next to an app.",
+      "To configure additional notification settings, tap Advanced.",
+      "To customize individual notification settings, tap an app or service."
+    ],
+    "html": [
+      "<h2 id=\"manage_notifications\">\n Manage notifications\n</h2>\n",
+      "<p>\n Allow or block notifications from apps and services.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Notifications\n  </b>\n  .\n  <ul>\n   <li>\n    To customize App icon badges, tap\n    <b>\n     App icon badges\n    </b>\n    .\n   </li>\n   <li>\n    To enable notifications, tap\n    <b>\n     All apps\n    </b>\n    , or tap\n    <b>\n     On/Off\n    </b>\n    next to an app.\n   </li>\n   <li>\n    To configure additional notification settings, tap\n    <b>\n     Advanced\n    </b>\n    .\n   </li>\n   <li>\n    To customize individual notification settings, tap an app or service.\n   </li>\n  </ul>\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/manage_notifications_tid1e11394.html",
+    "section_hierarchy": "section_48>section_49",
+    "id": "section_49"
+  },
+  "section_50": {
+    "title": "Smart alert",
+    "text": [
+      "Smart alert",
+      "Set the device to vibrate when you pick it up to notify you about missed calls and messages.",
+      "From Settings, tap Advanced features > Smart alert, and tap On/Off to enable."
+    ],
+    "html": [
+      "<h2 id=\"smart_alert\">\n Smart alert\n</h2>\n",
+      "<p>\n Set the device to vibrate when you pick it up to notify you about missed calls and messages.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Advanced features\n  </b>\n  &gt;\n  <b>\n   Smart alert\n  </b>\n  , and tap\n  <b>\n   On/Off\n  </b>\n  to enable.\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/smart_alert_tid1e11442.html",
+    "section_hierarchy": "section_48>section_50",
+    "id": "section_50"
+  },
+  "section_51": {
+    "title": "Display",
+    "text": [
+      "Display",
+      "Configure your displays brightness, screen timeout delay, and other settings."
+    ],
+    "html": [
+      "<h2 class=\"subsection\" id=\"display\">\n Display\n</h2>\n",
+      "<p>\n Configure your display\u00e2\u0080\u0099s brightness, screen timeout delay, and other settings.\n</p>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/display_tid1e11578.html",
+    "section_hierarchy": "section_51",
+    "id": "section_51"
+  },
+  "section_52": {
+    "title": "Screen off settings",
+    "text": [
+      "Screen off settings",
+      "Customize when the screen turns off.",
+      "From Settings, tap Display.",
+      "Tap an option to customize:",
+      "Screen timeout: Turn the screen off after a set amount of time.",
+      "Block accidental touches: You can prevent the screen from turning on while the device is in a dark place, such as a pocket or a bag.",
+      "Screen saver: Display colors or images after the screen has turned off or while charging."
+    ],
+    "html": [
+      "<h2 id=\"screen_off_settings\">\n Screen off settings\n</h2>\n",
+      "<p>\n Customize when the screen turns off.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Display\n  </b>\n  .\n </li>\n <li>\n  Tap an option to customize:\n  <ul>\n   <li>\n    <b>\n     Screen timeout\n    </b>\n    : Turn the screen off after a set amount of time.\n   </li>\n   <li>\n    <b>\n     Block accidental touches\n    </b>\n    : You can prevent the screen from turning on while the device is in a dark place, such as a pocket or a bag.\n   </li>\n   <li>\n    <b>\n     Screen saver\n    </b>\n    : Display colors or images after the screen has turned off or while charging.\n   </li>\n  </ul>\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/screen_off_settings_tid1e11477.html",
+    "section_hierarchy": "section_51>section_52",
+    "id": "section_52"
+  },
+  "section_53": {
+    "title": "Screen brightness",
+    "text": [
+      "Screen brightness",
+      "Adjust the screen brightness to suit your surroundings or personal preference.",
+      "You may also want to adjust screen brightness to conserve battery power.",
+      "From Settings, tap Display.",
+      "Customize options under Brightness:",
+      "Drag the Brightness slider to set a custom brightness level.",
+      "Tap Auto brightness to automatically adjust the screen brightness based on the lighting conditions.",
+      "Reset usage patterns: Clear your brightness adjustment history.",
+      "Your phone will begin learning your preferences again after the reset."
+    ],
+    "html": [
+      "<h2 id=\"screen_brightness\">\n Screen brightness\n</h2>\n",
+      "<p>\n Adjust the screen brightness to suit your surroundings or personal preference. You may also want to adjust screen brightness to conserve battery power.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Display\n  </b>\n  .\n </li>\n <li>\n  Customize options under Brightness:\n  <ul>\n   <li>\n    Drag the\n    <b>\n     Brightness\n    </b>\n    slider to set a custom brightness level.\n   </li>\n   <li>\n    Tap\n    <b>\n     Auto brightness\n    </b>\n    to automatically adjust the screen brightness based on the lighting conditions.\n    <ul>\n     <li>\n      <b>\n       Reset usage patterns\n      </b>\n      : Clear your brightness adjustment history. Your phone will begin learning your preferences again after the reset.\n     </li>\n    </ul>\n   </li>\n  </ul>\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/screen_brightness_tid1e11522.html",
+    "section_hierarchy": "section_51>section_53",
+    "id": "section_53"
+  },
+  "section_54": {
+    "title": "Blue light filter",
+    "text": [
+      "Blue light filter",
+      "Use the Blue light filter at night to help you sleep better.",
+      "You can set a schedule to automatically turn this feature on and off.",
+      "From Settings, tap Display > Blue light filter, and then choose one of the following options:",
+      "Drag the Opacity slider to set the opacity of the filter.",
+      "Tap Turn on now to enable this feature.",
+      "Tap Turn on as scheduled to set a schedule for when Blue light filter should be enabled.",
+      "You can choose Sunset to sunrise or Custom schedule."
+    ],
+    "html": [
+      "<h2 id=\"blue_light_filter\">\n Blue light filter\n</h2>\n",
+      "<p>\n Use the Blue light filter at night to help you sleep better. You can set a schedule to automatically turn this feature on and off.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Display\n  </b>\n  &gt;\n  <b>\n   Blue light filter\n  </b>\n  , and then choose one of the following options:\n  <ul>\n   <li>\n    Drag the\n    <b>\n     Opacity\n    </b>\n    slider to set the opacity of the filter.\n   </li>\n   <li>\n    Tap\n    <b>\n     Turn on now\n    </b>\n    to enable this feature.\n   </li>\n   <li>\n    Tap\n    <b>\n     Turn on as scheduled\n    </b>\n    to set a schedule for when Blue light filter should be enabled. You can choose\n    <b>\n     Sunset to sunrise\n    </b>\n    or\n    <b>\n     Custom schedule\n    </b>\n    .\n   </li>\n  </ul>\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/blue_light_filter_tid1e11569.html",
+    "section_hierarchy": "section_51>section_54",
+    "id": "section_54"
+  },
+  "section_55": {
+    "title": "Font and screen zoom",
+    "text": [
+      "Font and screen zoom",
+      "You can set the screen zoom level and the font size and style.",
+      "From Settings, tap Display > Font and screen zoom for the following options:",
+      "Drag the Screen zoom slider to adjust the zoom level.",
+      "Drag the Font size slider to adjust the size of text.",
+      "Tap a font to select it, or tap Download fonts to find new fonts from Galaxy Apps.",
+      "Tap Apply to set the screen zoom and font."
+    ],
+    "html": [
+      "<h2 id=\"font_and_screen_zoom\">\n Font and screen zoom\n</h2>\n",
+      "<p>\n You can set the screen zoom level and the font size and style.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Display\n  </b>\n  &gt;\n  <b>\n   Font and screen zoom\n  </b>\n  for the following options:\n  <ul>\n   <li>\n    Drag the\n    <b>\n     Screen zoom\n    </b>\n    slider to adjust the zoom level.\n   </li>\n   <li>\n    Drag the\n    <b>\n     Font size\n    </b>\n    slider to adjust the size of text.\n   </li>\n   <li>\n    Tap a font to select it, or tap\n    <b>\n     <img src=\"images/i-generic_minus_plus_in_circle.png\"/>\n     Download fonts\n    </b>\n    to find new fonts from Galaxy Apps.\n   </li>\n  </ul>\n </li>\n <li>\n  Tap\n  <b>\n   Apply\n  </b>\n  to set the screen zoom and font.\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/font_and_screen_zoom_tid1e11620.html",
+    "section_hierarchy": "section_51>section_55",
+    "id": "section_55"
+  },
+  "section_56": {
+    "title": "Screen quality",
+    "text": [
+      "Screen quality",
+      "Customize the screen mode to match your viewing preferences.",
+      "From Settings, tap Display to configure an option:",
+      "Tap Screen mode and choose Adaptive display or a specific type of screen mode based on what you are viewing.",
+      "Tap Screen resolution to select a resolution."
+    ],
+    "html": [
+      "<h2 id=\"screen_quality\">\n Screen quality\n</h2>\n",
+      "<p>\n Customize the screen mode to match your viewing preferences.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Display\n  </b>\n  to configure an option:\n  <ul>\n   <li>\n    Tap\n    <b>\n     Screen mode\n    </b>\n    and choose Adaptive display or a specific type of screen mode based on what you are viewing.\n   </li>\n   <li>\n    Tap\n    <b>\n     Screen resolution\n    </b>\n    to select a resolution.\n   </li>\n  </ul>\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/screen_quality_tid1e11672.html",
+    "section_hierarchy": "section_51>section_56",
+    "id": "section_56"
+  },
+  "section_57": {
+    "title": "LED indicator",
+    "text": [
+      "LED indicator",
+      "Light up the LED indicator when charging, voice recording, or receiving notifications.",
+      "From Settings, tap Display > LED indicator to enable the feature."
+    ],
+    "html": [
+      "<h2 id=\"led_indicator\">\n LED indicator\n</h2>\n",
+      "<p>\n Light up the LED indicator when charging, voice recording, or receiving notifications.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Display\n  </b>\n  &gt;\n  <b>\n   LED indicator\n  </b>\n  to enable the feature.\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/led_indicator_tid1e11708.html",
+    "section_hierarchy": "section_51>section_57",
+    "id": "section_57"
+  },
+  "section_58": {
+    "title": "Smart stay",
+    "text": [
+      "Smart stay",
+      "Smart stay uses the front camera to detect your face so that the screen stays on while you are looking at it.",
+      "From Settings, tap Advanced features > Smart stay, and tap On/Off to enable the feature."
+    ],
+    "html": [
+      "<h2 id=\"smart_stay\">\n Smart stay\n</h2>\n",
+      "<p>\n Smart stay uses the front camera to detect your face so that the screen stays on while you are looking at it.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Advanced features\n  </b>\n  &gt;\n  <b>\n   Smart stay\n  </b>\n  , and tap\n  <b>\n   On/Off\n  </b>\n  to enable the feature.\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/smart_stay_tid1e11731.html",
+    "section_hierarchy": "section_51>section_58",
+    "id": "section_58"
+  },
+  "section_59": {
+    "title": "One-handed mode",
+    "text": [
+      "One-handed mode",
+      "Change the screen layout to accommodate operating your device with one hand.",
+      "From Settings, tap Advanced features > One-handed mode.",
+      "Tap On/Off to enable the following:",
+      "Gesture: Swipe up diagonally from either bottom corner to reduce the display size.",
+      "Button: Press the Home key three times in quick succession to reduce the display size.",
+      "Show keys on screen: Display the Home, Back, and Recents keys on the screen."
+    ],
+    "html": [
+      "<h2 id=\"one-handed_mode\">\n One-handed mode\n</h2>\n",
+      "<p>\n Change the screen layout to accommodate operating your device with one hand.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Advanced features\n  </b>\n  &gt;\n  <b>\n   One-handed mode\n  </b>\n  .\n </li>\n <li>\n  Tap\n  <b>\n   On/Off\n  </b>\n  to enable the following:\n  <ul>\n   <li>\n    <b>\n     Gesture\n    </b>\n    : Swipe up diagonally from either bottom corner to reduce the display size.\n   </li>\n   <li>\n    <b>\n     Button\n    </b>\n    : Press the\n    <b>\n     Home\n    </b>\n    key three times in quick succession to reduce the display size.\n   </li>\n   <li>\n    <b>\n     Show keys on screen\n    </b>\n    : Display the Home, Back, and Recents keys on the screen.\n   </li>\n  </ul>\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/one-handed_mode_tid1e11758.html",
+    "section_hierarchy": "section_51>section_59",
+    "id": "section_59"
+  },
+  "section_60": {
+    "title": "Device maintenance",
+    "text": [
+      "Device maintenance",
+      "View the status of your devices battery, storage, and memory.",
+      "You can also automatically optimize your devices system resources."
+    ],
+    "html": [
+      "<h2 class=\"subsection\" id=\"device_maintenance\">\n Device maintenance\n</h2>\n",
+      "<p>\n View the status of your device\u00e2\u0080\u0099s battery, storage, and memory. You can also automatically optimize your device\u00e2\u0080\u0099s system resources.\n</p>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/device_maintenance_tid1e11942.html",
+    "section_hierarchy": "section_60",
+    "id": "section_60"
+  },
+  "section_61": {
+    "title": "Quick optimization",
+    "text": [
+      "Quick optimization",
+      "The quick optimization feature improves device performance through the following actions:",
+      "Identifying apps that use excessive battery power and clearing unneeded items from memory.",
+      "Deleting unnecessary files and closing apps running in the background.",
+      "Scanning for malware.",
+      "To use the quick optimization feature:",
+      "From Settings, tap Device maintenance.",
+      "Tap Optimize now."
+    ],
+    "html": [
+      "<h2 id=\"quick_optimization\">\n Quick optimization\n</h2>\n",
+      "<p>\n The quick optimization feature improves device performance through the following actions:\n</p>\n",
+      "<ul>\n <li>\n  Identifying apps that use excessive battery power and clearing unneeded items from memory.\n </li>\n <li>\n  Deleting unnecessary files and closing apps running in the background.\n </li>\n <li>\n  Scanning for malware.\n </li>\n</ul>\n",
+      "<p>\n To use the quick optimization feature:\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Device maintenance\n  </b>\n  .\n </li>\n <li>\n  Tap\n  <b>\n   Optimize now\n  </b>\n  .\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/quick_optimization_tid1e11820.html",
+    "section_hierarchy": "section_60>section_61",
+    "id": "section_61"
+  },
+  "section_62": {
+    "title": "Battery",
+    "text": [
+      "Battery",
+      "View how battery power is used for device activities.",
+      "From Settings, tap Device maintenance > Battery for options:",
+      "Battery usage: View power usage by item.",
+      "Power saving mode: Select a power mode to extend battery life.",
+      "App power monitor: View power usage by app.",
+      "Unmonitored apps: Select apps to exclude from being put to sleep by the App power monitor.",
+      "Always sleeping apps: Select apps to put to sleep immediately when not being used.",
+      "More options > Advanced settings: Configure advanced battery settings and notifications."
+    ],
+    "html": [
+      "<h2 id=\"battery\">\n Battery\n</h2>\n",
+      "<p>\n View how battery power is used for device activities.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Device maintenance\n  </b>\n  &gt;\n  <b>\n   Battery\n  </b>\n  for options:\n  <ul>\n   <li>\n    <b>\n     Battery usage\n    </b>\n    : View power usage by item.\n   </li>\n   <li>\n    <b>\n     Power saving mode\n    </b>\n    : Select a power mode to extend battery life.\n   </li>\n   <li>\n    <b>\n     App power monitor\n    </b>\n    : View power usage by app.\n   </li>\n   <li>\n    <b>\n     Unmonitored apps\n    </b>\n    : Select apps to exclude from being put to sleep by the App power monitor.\n   </li>\n   <li>\n    <b>\n     Always sleeping apps\n    </b>\n    : Select apps to put to sleep immediately when not being used.\n   </li>\n   <li>\n    <b>\n     <img src=\"images/i-more_options.png\"/>\n     More options\n    </b>\n    &gt;\n    <b>\n     Advanced settings\n    </b>\n    : Configure advanced battery settings and notifications.\n   </li>\n  </ul>\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/battery_tid1e11862.html",
+    "section_hierarchy": "section_60>section_62",
+    "id": "section_62"
+  },
+  "section_63": {
+    "title": "Performance mode",
+    "text": [
+      "Performance mode",
+      "Optimize your devices performance features to best fit your usage.",
+      "From Settings, tap Device maintenance > Performance mode.",
+      "Optimized (recommended): Balance battery life and screen resolution for everyday use.",
+      "Game: Enhance your gaming experience by making games run more smoothly.",
+      "Entertainment: Enjoy music and videos with ultra-high quality sound and enhanced images.",
+      "High performance: Experience the highest quality display settings."
+    ],
+    "html": [
+      "<h2 id=\"performance_mode\">\n Performance mode\n</h2>\n",
+      "<p>\n Optimize your device\u00e2\u0080\u0099s performance features to best fit your usage.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Device maintenance\n  </b>\n  &gt;\n  <b>\n   Performance mode\n  </b>\n  .\n  <ul>\n   <li>\n    <b>\n     Optimized (recommended)\n    </b>\n    : Balance battery life and screen resolution for everyday use.\n   </li>\n   <li>\n    <b>\n     Game\n    </b>\n    : Enhance your gaming experience by making games run more smoothly.\n   </li>\n   <li>\n    <b>\n     Entertainment\n    </b>\n    : Enjoy music and videos with ultra-high quality sound and enhanced images.\n   </li>\n   <li>\n    <b>\n     High performance\n    </b>\n    : Experience the highest quality display settings.\n   </li>\n  </ul>\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/performance_mode_tid1e11930.html",
+    "section_hierarchy": "section_60>section_63",
+    "id": "section_63"
+  },
+  "section_64": {
+    "title": "Storage",
+    "text": [
+      "Storage",
+      "View the device memory and usage.",
+      "Mount, unmount, or format an optional memory card (not included).",
+      "From Settings, tap Device maintenance > Storage.",
+      "To increase available memory, tap Clean now."
+    ],
+    "html": [
+      "<h2 id=\"storage\">\n Storage\n</h2>\n",
+      "<p>\n View the device memory and usage. Mount, unmount, or format an optional memory card (not included).\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Device maintenance\n  </b>\n  &gt;\n  <b>\n   Storage\n  </b>\n  .\n </li>\n</ul>\n",
+      "<ul>\n <li>\n  To increase available memory, tap\n  <b>\n   Clean now\n  </b>\n  .\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/storage_tid1e11981.html",
+    "section_hierarchy": "section_60>section_64",
+    "id": "section_64"
+  },
+  "section_65": {
+    "title": "Memory",
+    "text": [
+      "Memory",
+      "Check the amount of available memory.",
+      "You can close background apps and reduce the amount of memory you are using to speed up your device.",
+      "From Settings, tap Device maintenance > Memory.",
+      "The used and available memory are shown.",
+      "To free up as much memory as possible, tap Clean now and follow the prompts.",
+      "The selected apps and services in the list will be closed."
+    ],
+    "html": [
+      "<h2 id=\"memory\">\n Memory\n</h2>\n",
+      "<p>\n Check the amount of available memory. You can close background apps and reduce the amount of memory you are using to speed up your device.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Device maintenance\n  </b>\n  &gt;\n  <b>\n   Memory\n  </b>\n  .\n  <ul>\n   <li>\n    The used and available memory are shown.\n   </li>\n  </ul>\n </li>\n <li>\n  To free up as much memory as possible, tap\n  <b>\n   Clean now\n  </b>\n  and follow the prompts.\n  <ul>\n   <li>\n    The selected apps and services in the list will be closed.\n   </li>\n  </ul>\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/memory_tid1e12166.html",
+    "section_hierarchy": "section_60>section_65",
+    "id": "section_65"
+  },
+  "section_66": {
+    "title": "Device security",
+    "text": [
+      "Device security",
+      "Enable and configure security services for your device.",
+      "From Settings, tap Device maintenance > Device security for the following options:",
+      "Tap Scan phone to scan for security threats.",
+      "Tap Knox active protection to enable extra protection against malicious attacks."
+    ],
+    "html": [
+      "<h2 id=\"device_security\">\n Device security\n</h2>\n",
+      "<p>\n Enable and configure security services for your device.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Device maintenance\n  </b>\n  &gt;\n  <b>\n   Device security\n  </b>\n  for the following options:\n  <ul>\n   <li>\n    Tap\n    <b>\n     Scan\n    </b>\n    <b>\n     phone\n    </b>\n    to scan for security threats.\n   </li>\n   <li>\n    Tap\n    <b>\n     Knox active protection\n    </b>\n    to enable extra protection against malicious attacks.\n   </li>\n  </ul>\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/device_security_tid1e12207.html",
+    "section_hierarchy": "section_60>section_66",
+    "id": "section_66"
+  },
+  "section_67": {
+    "title": "Language and input",
+    "text": [
+      "Language and input",
+      "Configure your devices language and input settings."
+    ],
+    "html": [
+      "<h2 id=\"language_and_input\">\n Language and input\n</h2>\n",
+      "<p>\n Configure your device\u00e2\u0080\u0099s language and input settings.\n</p>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/language_and_input_tid1e12249.html",
+    "section_hierarchy": "section_60>section_67",
+    "id": "section_67"
+  },
+  "section_68": {
+    "title": "Date and time",
+    "text": [
+      "Date and time",
+      "By default, your device receives date and time information from the wireless network.",
+      "Outside of network coverage, you can set the date and time manually.",
+      "From Settings, tap General management > Date and time.",
+      "The following options are available:",
+      "Automatic date and time: Receive date and time updates from your wireless network.",
+      "When Automatic date and time is disabled, the following options are available:",
+      "Set date: Enter the current date.",
+      "Set time: Enter the current time.",
+      "Select time zone: Choose a new time zone.",
+      "Use 24-hour format: Set the format for displaying time."
+    ],
+    "html": [
+      "<h2 id=\"date_and_time\">\n Date and time\n</h2>\n",
+      "<p>\n By default, your device receives date and time information from the wireless network. Outside of network coverage, you can set the date and time manually.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   General management\n  </b>\n  &gt;\n  <b>\n   Date and time\n  </b>\n  . The following options are available:\n  <ul>\n   <li>\n    <b>\n     Automatic date and time\n    </b>\n    : Receive date and time updates from your wireless network. When Automatic date and time is disabled, the following options are available:\n    <ul>\n     <li>\n      <b>\n       Set date\n      </b>\n      : Enter the current date.\n     </li>\n     <li>\n      <b>\n       Set time\n      </b>\n      : Enter the current time.\n     </li>\n     <li>\n      <b>\n       Select time zone\n      </b>\n      : Choose a new time zone.\n     </li>\n    </ul>\n   </li>\n   <li>\n    <b>\n     Use 24-hour format\n    </b>\n    : Set the format for displaying time.\n   </li>\n  </ul>\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/date_and_time_tid1e12629.html",
+    "section_hierarchy": "section_60>section_68",
+    "id": "section_68"
+  },
+  "section_69": {
+    "title": "Report diagnostic information",
+    "text": [
+      "Report diagnostic information",
+      "This feature sends diagnostic information about your device when you are having technical problems.",
+      "From Settings, tap General management > Report diagnostic information.",
+      "Read and accept the consent information to enable this feature."
+    ],
+    "html": [
+      "<h2 id=\"report_diagnostic_information\">\n Report diagnostic information\n</h2>\n",
+      "<p>\n This feature sends diagnostic information about your device when you are having technical problems.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   General management\n  </b>\n  &gt;\n  <b>\n   Report diagnostic information\n  </b>\n  .\n </li>\n <li>\n  Read and accept the consent information to enable this feature.\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/report_diagnostic_information_tid1e12688.html",
+    "section_hierarchy": "section_60>section_69",
+    "id": "section_69"
+  },
+  "section_70": {
+    "title": "Reset",
+    "text": [
+      "Reset",
+      "Reset device and network settings.",
+      "You can also reset your device to its factory defaults."
+    ],
+    "html": [
+      "<h2 id=\"reset\">\n Reset\n</h2>\n",
+      "<p>\n Reset device and network settings. You can also reset your device to its factory defaults.\n</p>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/reset_tid1e12715.html",
+    "section_hierarchy": "section_60>section_70",
+    "id": "section_70"
+  },
+  "section_71": {
+    "title": "Factory data reset",
+    "text": [
+      "Factory data reset",
+      "You can reset your device to factory defaults, erasing all data from your device.",
+      "This action permanently erases ALL data from the device, including Google or other account settings, system and application data and settings, downloaded applications, as well as your music, photos, videos, and other files.",
+      "Any data stored on an external SD card is not affected.",
+      "Note: When you sign in to a Google Account on your device, Factory Reset Protection is activated.",
+      "This protects your device in the event it is lost or stolen.",
+      "If you reset your device to factory default settings with the Factory Reset Protection (FRP) feature activated, you must enter the user name and password for a registered Google Account to regain access to the device.",
+      "You will not be able to access the device without the correct credentials.",
+      "Warning: If you reset your Google Account password, it can take 24 hours for the password reset to sync with all devices registered to the account.",
+      "Before resetting your device:",
+      "Verify that the information you want to keep has transferred to your storage area.",
+      "Log in to your Google Account and confirm your user name and password.",
+      "To reset your device:",
+      "From Settings, tap General management > Reset > Factory data reset.",
+      "Tap Reset and follow the prompts to perform the reset.",
+      "When the device restarts, follow the prompts to set up your device."
+    ],
+    "html": [
+      "<h2 id=\"factory_data_reset\">\n Factory data reset\n</h2>\n",
+      "<p>\n You can reset your device to factory defaults, erasing all data from your device.\n</p>\n",
+      "<p>\n This action permanently erases ALL data from the device, including Google or other account settings, system and application data and settings, downloaded applications, as well as your music, photos, videos, and other files. Any data stored on an external SD card is not affected.\n</p>\n",
+      "<p class=\"note\">\n <b>\n  Note\n </b>\n : When you sign in to a Google Account on your device, Factory Reset Protection is activated. This protects your device in the event it is lost or stolen.\n</p>\n",
+      "<p>\n If you reset your device to factory default settings with the Factory Reset Protection (FRP) feature activated, you must enter the user name and password for a registered Google Account to regain access to the device. You will not be able to access the device without the correct credentials.\n</p>\n",
+      "<p class=\"note\">\n <b>\n  Warning\n </b>\n : If you reset your Google Account password, it can take 24 hours for the password reset to sync with all devices registered to the account.\n</p>\n",
+      "<p class=\"step-intro\">\n Before resetting your device:\n</p>\n",
+      "<ol>\n <li>\n  Verify that the information you want to keep has transferred to your storage area.\n </li>\n <li>\n  Log in to your Google Account and confirm your user name and password.\n </li>\n</ol>\n",
+      "<p>\n To reset your device:\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   General management\n  </b>\n  &gt;\n  <b>\n   Reset\n  </b>\n  &gt;\n  <b>\n   Factory data reset\n  </b>\n  .\n </li>\n <li>\n  Tap\n  <b>\n   Reset\n  </b>\n  and follow the prompts to perform the reset.\n </li>\n <li>\n  When the device restarts, follow the prompts to set up your device.\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/factory_data_reset_tid1e12786.html",
+    "section_hierarchy": "section_60>section_71",
+    "id": "section_71"
+  },
+  "section_72": {
+    "title": "Auto restart",
+    "text": [
+      "Auto restart",
+      "Optimize your device by restarting it automatically at set times.",
+      "Any unsaved data will be lost when the device restarts.",
+      "From Settings, tap General management > Reset > Auto restart.",
+      "Tap On/Off to activate Auto restart, and then set the following parameters:",
+      "Time: Set the time of day to restart your device.",
+      "Day: Select the day of the week to automatically restart your device."
+    ],
+    "html": [
+      "<h2 id=\"auto_restart\">\n Auto restart\n</h2>\n",
+      "<p>\n Optimize your device by restarting it automatically at set times. Any unsaved data will be lost when the device restarts.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   General management\n  </b>\n  &gt;\n  <b>\n   Reset\n  </b>\n  &gt;\n  <b>\n   Auto restart\n  </b>\n  .\n </li>\n <li>\n  Tap\n  <b>\n   <b>\n    On/Off\n   </b>\n  </b>\n  to activate Auto restart, and then set the following parameters:\n  <ul>\n   <li>\n    <b>\n     Time\n    </b>\n    : Set the time of day to restart your device.\n   </li>\n   <li>\n    <b>\n     Day\n    </b>\n    : Select the day of the week to automatically restart your device.\n   </li>\n  </ul>\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/auto_restart_tid1e12913.html",
+    "section_hierarchy": "section_60>section_72",
+    "id": "section_72"
+  },
+  "section_73": {
+    "title": "Software update",
+    "text": [
+      "Software update",
+      "Check for and install available software updates for your device.",
+      "From Settings, tap Software update for the following options:",
+      "Download updates manually: Check for software updates.",
+      "Download updates automatically: Update software automatically.",
+      "Scheduled software updates: Install software updates at a time you set.",
+      "Last update information: View information about the last software update."
+    ],
+    "html": [
+      "<h2 id=\"software_update\">\n Software update\n</h2>\n",
+      "<p>\n Check for and install available software updates for your device.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Software update\n  </b>\n  for the following options:\n  <ul>\n   <li>\n    <b>\n     Download updates manually\n    </b>\n    : Check for software updates.\n   </li>\n   <li>\n    <b>\n     Download updates automatically\n    </b>\n    : Update software automatically.\n   </li>\n   <li>\n    <b>\n     Scheduled software updates\n    </b>\n    : Install software updates at a time you set.\n   </li>\n   <li>\n    <b>\n     Last update information\n    </b>\n    : View information about the last software update.\n   </li>\n  </ul>\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/software_update_tid1e12964.html",
+    "section_hierarchy": "section_60>section_73",
+    "id": "section_73"
+  },
+  "section_74": {
+    "title": "Lock screen and security",
+    "text": [
+      "Lock screen and security",
+      "Secure your device and protect your data with Lock screen and security settings."
+    ],
+    "html": [
+      "<h2 class=\"subsection\" id=\"lock_screen_and_security\">\n Lock screen and security\n</h2>\n",
+      "<p>\n Secure your device and protect your data with Lock screen and security settings.\n</p>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/lock_screen_and_security_tid1e13177.html",
+    "section_hierarchy": "section_74",
+    "id": "section_74"
+  },
+  "section_75": {
+    "title": "Screen lock types",
+    "text": [
+      "Screen lock types",
+      "The various Screen lock types offer high, medium, or no security.",
+      "Choose from the following: Swipe, Pattern, PIN, Password, and None."
+    ],
+    "html": [
+      "<h2 id=\"screen_lock_types\">\n Screen lock types\n</h2>\n",
+      "<p>\n The various Screen lock types offer high, medium, or no security. Choose from the following: Swipe, Pattern, PIN, Password, and None.\n</p>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/screen_lock_types_tid1e13020.html",
+    "section_hierarchy": "section_74>section_75",
+    "id": "section_75"
+  },
+  "section_76": {
+    "title": "Biometrics",
+    "text": [
+      "Biometrics",
+      "The following biometric lock types are available:",
+      "Fingerprint scanner: Use fingerprint recognition to unlock the screen.",
+      "For more information, see .",
+      "Fingerprint scanner"
+    ],
+    "html": [
+      "<h2 id=\"biometrics\">\n Biometrics\n</h2>\n",
+      "<p>\n The following biometric lock types are available:\n</p>\n",
+      "<ul>\n <li>\n  <b>\n   Fingerprint scanner\n  </b>\n  : Use fingerprint recognition to unlock the screen. For more information, see\n  <a href=\"fingerprint_scanner_2_tid1e2316.html#fingerprint_scanner_2\">\n   Fingerprint scanner\n  </a>\n  .\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/biometrics_tid1e13120.html",
+    "section_hierarchy": "section_74>section_76",
+    "id": "section_76"
+  },
+  "section_77": {
+    "title": "Lock screen and AOD settings",
+    "text": [
+      "Lock screen and AOD settings",
+      "Configure display settings for the Lock screen.",
+      "From Settings, tap Lock screen and security for options:",
+      "Clock and FaceWidgets: Customize the clock, FaceWidgets, and contact information that displays on the Lock screen and Always On Display screen.",
+      "Notifications: Select which notifications to display on the Lock screen and Always On Display screen.",
+      "App shortcuts: Select which apps to open from the Lock screen."
+    ],
+    "html": [
+      "<h2 id=\"lock_screen_and_aod_settings\">\n Lock screen and AOD settings\n</h2>\n",
+      "<p>\n Configure display settings for the Lock screen.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Lock screen and security\n  </b>\n  for options:\n  <ul>\n   <li>\n    <b>\n     Clock and FaceWidgets\n    </b>\n    : Customize the clock, FaceWidgets, and contact information that displays on the Lock screen and Always On Display screen.\n   </li>\n   <li>\n    <b>\n     Notifications\n    </b>\n    : Select which notifications to display on the Lock screen and Always On Display screen.\n   </li>\n   <li>\n    <b>\n     App shortcuts\n    </b>\n    : Select which apps to open from the Lock screen.\n   </li>\n  </ul>\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/lock_screen_and_aod_settings_tid1e13138.html",
+    "section_hierarchy": "section_74>section_77",
+    "id": "section_77"
+  },
+  "section_78": {
+    "title": "Google Play Protect",
+    "text": [
+      "Google Play Protect",
+      "Configure app safety checks from Google Play.",
+      "From Settings, tap Lock screen and security > Google Play Protect.",
+      "Tap options to customize security."
+    ],
+    "html": [
+      "<h2 id=\"google_play_protect\">\n Google Play Protect\n</h2>\n",
+      "<p>\n Configure app safety checks from Google Play.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Lock screen and security\n  </b>\n  &gt;\n  <b>\n   Google Play Protect\n  </b>\n  .\n </li>\n <li>\n  Tap options to customize security.\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/google_play_protect_tid1e13180.html",
+    "section_hierarchy": "section_74>section_78",
+    "id": "section_78"
+  },
+  "section_79": {
+    "title": "Find My Mobile",
+    "text": [
+      "Find My Mobile",
+      "Protect your device from loss or theft allowing your device to be locked, tracked, and for your data to be deleted remotely.",
+      "For more information, visit .",
+      "You must sign up for a Samsung account and enable Google location service to use Find My Mobile.",
+      "samsung.com/us/support/owners/app/find-my-mobile",
+      "To access your device remotely, visit .",
+      "findmymobile.samsung.com",
+      "From Settings, tap Lock screen and security > Find My Mobile.",
+      "Enter your Samsung account password or, if you are not logged in to your Samsung account, tap Add account and follow the prompts.",
+      "The following options are available:",
+      "Remote controls: Activate or deactivate Remote controls, which allows you to access your device remotely.",
+      "Google location service: Activate or deactivate Google location service.",
+      "This service must be on in order to find your device.",
+      "Send last location: Allow your device to send its last location to the Find My Mobile server when the battery falls below a certain level."
+    ],
+    "html": [
+      "<h2 id=\"find_my_mobile\">\n Find My Mobile\n</h2>\n",
+      "<p>\n Protect your device from loss or theft allowing your device to be locked, tracked, and for your data to be deleted remotely. For more information, visit\n <a href=\"https://www.samsung.com/us/support/owners/app/find-my-mobile\">\n  samsung.com/us/support/owners/app/find-my-mobile\n </a>\n . You must sign up for a Samsung account and enable Google location service to use Find My Mobile.\n</p>\n",
+      "<p>\n To access your device remotely, visit\n <a href=\"http://findmymobile.samsung.com/\">\n  findmymobile.samsung.com\n </a>\n .\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Lock screen and security\n  </b>\n  &gt;\n  <b>\n   Find My Mobile\n  </b>\n  .\n </li>\n <li>\n  Enter your Samsung account password or, if you are not logged in to your Samsung account, tap\n  <b>\n   Add account\n  </b>\n  and follow the prompts. The following options are available:\n  <ul>\n   <li>\n    <b>\n     Remote controls\n    </b>\n    : Activate or deactivate Remote controls, which allows you to access your device remotely.\n   </li>\n   <li>\n    <b>\n     Google location service\n    </b>\n    : Activate or deactivate Google location service. This service must be on in order to find your device.\n   </li>\n   <li>\n    <b>\n     Send last location\n    </b>\n    : Allow your device to send its last location to the Find My Mobile server when the battery falls below a certain level.\n   </li>\n  </ul>\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/find_my_mobile_tid1e13206.html",
+    "section_hierarchy": "section_74>section_79",
+    "id": "section_79"
+  },
+  "section_80": {
+    "title": "Security update",
+    "text": [
+      "Security update",
+      "Check the date of the last security software update.",
+      "From Settings, tap Lock screen and security > Security update to see if the latest security update is installed."
+    ],
+    "html": [
+      "<h2 id=\"security_update\">\n Security update\n</h2>\n",
+      "<p>\n Check the date of the last security software update.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Lock screen and security\n  </b>\n  &gt;\n  <b>\n   Security update\n  </b>\n  to see if the latest security update is installed.\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/security_update_tid1e13266.html",
+    "section_hierarchy": "section_74>section_80",
+    "id": "section_80"
+  },
+  "section_81": {
+    "title": "Install unknown apps",
+    "text": [
+      "Install unknown apps",
+      "Allow selected apps to install unknown third-party apps.",
+      "From Settings, tap Lock screen and security > Install unknown apps.",
+      "Tap an app.",
+      "Tap Allow from this source to enable apps to be installed using this app."
+    ],
+    "html": [
+      "<h2 id=\"install_unknown_apps\">\n Install unknown apps\n</h2>\n",
+      "<p>\n Allow selected apps to install unknown third-party apps.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Lock screen and security\n  </b>\n  &gt;\n  <b>\n   Install unknown apps\n  </b>\n  .\n </li>\n <li>\n  Tap an app.\n </li>\n <li>\n  Tap\n  <b>\n   Allow from this source\n  </b>\n  to enable apps to be installed using this app.\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/install_unknown_apps_tid1e13290.html",
+    "section_hierarchy": "section_74>section_81",
+    "id": "section_81"
+  },
+  "section_82": {
+    "title": "Samsung Pass",
+    "text": [
+      "Samsung Pass",
+      "Use Samsung Pass to access your favorite services with biometric data.",
+      "For more information, visit .",
+      "You must sign in to your Samsung account to use Samsung Pass.",
+      "samsung.com/us/support/owners/app/samsung-pass",
+      "From Settings, tap Lock screen and security > Samsung Pass.",
+      "Follow the prompts to sign in to your Samsung account and add your biometric data."
+    ],
+    "html": [
+      "<h2 id=\"samsung_pass\">\n Samsung Pass\n</h2>\n",
+      "<p>\n Use Samsung Pass to access your favorite services with biometric data. For more information, visit\n <a href=\"https://www.samsung.com/us/support/owners/app/samsung-pass\">\n  samsung.com/us/support/owners/app/samsung-pass\n </a>\n . You must sign in to your Samsung account to use Samsung Pass.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Lock screen and security\n  </b>\n  &gt;\n  <b>\n   Samsung Pass\n  </b>\n  .\n </li>\n <li>\n  Follow the prompts to sign in to your Samsung account and add your biometric data.\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/samsung_pass_tid1e13322.html",
+    "section_hierarchy": "section_74>section_82",
+    "id": "section_82"
+  },
+  "section_83": {
+    "title": "Private Mode",
+    "text": [
+      "Private Mode",
+      "Hide personal content from being accessed by anyone else using your device.",
+      "Private mode is only available for certain applications.",
+      "Note: A secure screen lock (Pattern, PIN, Password, or Fingerprints) is required to use Private mode.",
+      "From Settings, tap Lock screen and security > Private mode.",
+      "Tap On/Off to enable Private mode.",
+      "Follow the prompts to learn about and set up Private mode."
+    ],
+    "html": [
+      "<h2 id=\"private_mode\">\n Private Mode\n</h2>\n",
+      "<p>\n Hide personal content from being accessed by anyone else using your device. Private mode is only available for certain applications.\n</p>\n",
+      "<p>\n <b>\n  Note\n </b>\n : A secure screen lock (Pattern, PIN, Password, or Fingerprints) is required to use Private mode.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Lock screen and security\n  </b>\n  &gt;\n  <b>\n   Private mode\n  </b>\n  .\n </li>\n <li>\n  Tap\n  <b>\n   On/Off\n  </b>\n  to enable Private mode.\n </li>\n <li>\n  Follow the prompts to learn about and set up Private mode.\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/private_mode_tid1e13352.html",
+    "section_hierarchy": "section_74>section_83",
+    "id": "section_83"
+  },
+  "section_84": {
+    "title": "Secure Folder",
+    "text": [
+      "Secure Folder",
+      "Lock your private content and apps to enhance security.",
+      "You must sign in to your Samsung account in order to use Secure Folder.",
+      "You must also set a secure lock for your device.",
+      "From Settings, tap Lock screen and security > Secure Folder and follow the prompts to secure content on your device."
+    ],
+    "html": [
+      "<h2 id=\"secure_folder\">\n Secure Folder\n</h2>\n",
+      "<p>\n Lock your private content and apps to enhance security. You must sign in to your Samsung account in order to use Secure Folder. You must also set a secure lock for your device.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Lock screen and security\n  </b>\n  &gt;\n  <b>\n   Secure Folder\n  </b>\n  and follow the prompts to secure content on your device.\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/secure_folder_tid1e13390.html",
+    "section_hierarchy": "section_74>section_84",
+    "id": "section_84"
+  },
+  "section_85": {
+    "title": "App permission monitor",
+    "text": [
+      "App permission monitor",
+      "Get notified when permissions you select are being used by apps running in the background.",
+      "From Settings, tap Lock screen and security > App permission monitor.",
+      "Tap On/Off next to the apps you want to be notified about when they use certain permissions."
+    ],
+    "html": [
+      "<h2 id=\"app_permission_monitor\">\n App permission monitor\n</h2>\n",
+      "<p>\n Get notified when permissions you select are being used by apps running in the background.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Lock screen and security\n  </b>\n  &gt;\n  <b>\n   App permission monitor\n  </b>\n  .\n </li>\n <li>\n  Tap\n  <b>\n   On/Off\n  </b>\n  next to the apps you want to be notified about when they use certain permissions.\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/app_permission_monitor_tid1e13414.html",
+    "section_hierarchy": "section_74>section_85",
+    "id": "section_85"
+  },
+  "section_86": {
+    "title": "Secure startup",
+    "text": [
+      "Secure startup",
+      "Protect your device by requiring a numeric PIN, pattern, or password to be entered before it starts up.",
+      "You must have a secured screen lock for this option to be available.",
+      "From Settings, tap Lock screen and security > Secure startup and select an option."
+    ],
+    "html": [
+      "<h2 id=\"secure_startup\">\n Secure startup\n</h2>\n",
+      "<p>\n Protect your device by requiring a numeric PIN, pattern, or password to be entered before it starts up. You must have a secured screen lock for this option to be available.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Lock screen and security\n  </b>\n  &gt;\n  <b>\n   Secure startup\n  </b>\n  and select an option.\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/secure_startup_tid1e13443.html",
+    "section_hierarchy": "section_74>section_86",
+    "id": "section_86"
+  },
+  "section_87": {
+    "title": "Encrypt SD card",
+    "text": [
+      "Encrypt SD card",
+      "Protect your optional memory (not included) card by encrypting its data.",
+      "From Settings, tap Lock screen and security > Encrypt SD card.",
+      "Tap Encrypt SD card and follow the prompts to encrypt all data on your memory card."
+    ],
+    "html": [
+      "<h2 id=\"encrypt_sd_card\">\n Encrypt SD card\n</h2>\n",
+      "<p>\n Protect your optional memory (not included) card by encrypting its data.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Lock screen and security\n  </b>\n  &gt;\n  <b>\n   Encrypt SD card\n  </b>\n  .\n </li>\n <li>\n  Tap\n  <b>\n   Encrypt SD card\n  </b>\n  and follow the prompts to encrypt all data on your memory card.\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/encrypt_sd_card_tid1e13467.html",
+    "section_hierarchy": "section_74>section_87",
+    "id": "section_87"
+  },
+  "section_88": {
+    "title": "View passwords",
+    "text": [
+      "View passwords",
+      "Display password characters briefly as you type them.",
+      "From Settings, tap Lock screen and security > Other security settings > Make passwords visible to enable the feature."
+    ],
+    "html": [
+      "<h2 id=\"view_passwords\">\n View passwords\n</h2>\n",
+      "<p>\n Display password characters briefly as you type them.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Lock screen and security\n  </b>\n  &gt;\n  <b>\n   Other security settings\n  </b>\n  &gt;\n  <b>\n   Make passwords visible\n  </b>\n  to enable the feature.\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/view_passwords_tid1e13496.html",
+    "section_hierarchy": "section_74>section_88",
+    "id": "section_88"
+  },
+  "section_89": {
+    "title": "Security update service",
+    "text": [
+      "Security update service",
+      "Automatically receive security updates.",
+      "From Settings, tap Lock screen and security > Other security settings for the following Security update service options:",
+      "Security policy updates: Automatically or manually check for security policy updates.",
+      "Automatic updates can also be limited to only when your device is connected to a Wi-Fi network.",
+      "Send security reports: Use Wi-Fi to send security reports to Samsung for threat analysis."
+    ],
+    "html": [
+      "<h2 id=\"security_update_service\">\n Security update service\n</h2>\n",
+      "<p>\n Automatically receive security updates.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Lock screen and security\n  </b>\n  &gt;\n  <b>\n   Other security settings\n  </b>\n  for the following Security update service options:\n  <ul>\n   <li>\n    <b>\n     Security policy updates\n    </b>\n    : Automatically or manually check for security policy updates.\n    <ul>\n     <li>\n      Automatic updates can also be limited to only when your device is connected to a Wi-Fi network.\n     </li>\n    </ul>\n   </li>\n   <li>\n    <b>\n     Send security reports\n    </b>\n    : Use Wi-Fi to send security reports to Samsung for threat analysis.\n   </li>\n  </ul>\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/security_update_service_tid1e13523.html",
+    "section_hierarchy": "section_74>section_89",
+    "id": "section_89"
+  },
+  "section_90": {
+    "title": "Device administration",
+    "text": [
+      "Device administration",
+      "Manage your device administrators and application installation privileges.",
+      "From Settings, tap Lock screen and security > Other security settings > Device admin apps.",
+      "Tap an option to enable it as a device administrator."
+    ],
+    "html": [
+      "<h2 id=\"device_administration\">\n Device administration\n</h2>\n",
+      "<p>\n Manage your device administrators and application installation privileges.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Lock screen and security\n  </b>\n  &gt;\n  <b>\n   Other security settings\n  </b>\n  &gt;\n  <b>\n   Device admin apps\n  </b>\n  .\n </li>\n <li>\n  Tap an option to enable it as a device administrator.\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/device_administration_tid1e13567.html",
+    "section_hierarchy": "section_74>section_90",
+    "id": "section_90"
+  },
+  "section_91": {
+    "title": "Credential storage",
+    "text": [
+      "Credential storage",
+      "Manage your security certificates.",
+      "You can disable or remove certificates.",
+      "From Settings, tap Lock screen and security > Other security settings for the following options:",
+      "Storage type: Select a storage location for credential contents.",
+      "View security certificates: Display certificates in your devices ROM and other certificates you have installed.",
+      "User certificates: View user certificates.",
+      "Install from device storage: Install a new certificate from storage.",
+      "Clear credentials: Erase the credential contents from the device and reset the password."
+    ],
+    "html": [
+      "<h2 id=\"credential_storage\">\n Credential storage\n</h2>\n",
+      "<p>\n Manage your security certificates. You can disable or remove certificates.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Lock screen and security\n  </b>\n  &gt;\n  <b>\n   Other security settings\n  </b>\n  for the following options:\n  <ul>\n   <li>\n    <b>\n     Storage type\n    </b>\n    : Select a storage location for credential contents.\n   </li>\n   <li>\n    <b>\n     View security certificates\n    </b>\n    : Display certificates in your device\u00e2\u0080\u0099s ROM and other certificates you have installed.\n   </li>\n   <li>\n    <b>\n     User certificates\n    </b>\n    : View user certificates.\n   </li>\n   <li>\n    <b>\n     Install from device storage\n    </b>\n    : Install a new certificate from storage.\n   </li>\n   <li>\n    <b>\n     Clear credentials\n    </b>\n    : Erase the credential contents from the device and reset the password.\n   </li>\n  </ul>\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/credential_storage_tid1e13597.html",
+    "section_hierarchy": "section_74>section_91",
+    "id": "section_91"
+  },
+  "section_92": {
+    "title": "Advanced security settings",
+    "text": [
+      "Advanced security settings",
+      "Use these options to configure advanced security settings.",
+      "From Settings, tap Lock screen and security > Other security settings for the following advanced options:",
+      "Trust agents: Perform selected actions when trusted devices are connected.",
+      "This option is only displayed when a lock screen is enabled.",
+      "For more information, see .",
+      "Set a secure screen lock",
+      "Pin windows: Pin an app on your device screen, preventing access to other features of your device.",
+      "Usage data access: View the applications that can access your devices usage history.",
+      "Notification access: View the applications that can access notifications you receive on your device.",
+      "Do not disturb permission: View which apps have permission to change the Do not disturb settings."
+    ],
+    "html": [
+      "<h2 id=\"advanced_security_settings\">\n Advanced security settings\n</h2>\n",
+      "<p>\n Use these options to configure advanced security settings.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Lock screen and security\n  </b>\n  &gt;\n  <b>\n   Other security settings\n  </b>\n  for the following advanced options:\n  <ul>\n   <li>\n    <b>\n     Trust agents\n    </b>\n    : Perform selected actions when trusted devices are connected.\n    <ul>\n     <li>\n      This option is only displayed when a lock screen is enabled. For more information, see\n      <a href=\"screen_lock_types_tid1e13020.html#set_a_secure_screen_lock\">\n       Set a secure screen lock\n      </a>\n      .\n     </li>\n    </ul>\n   </li>\n   <li>\n    <b>\n     Pin windows\n    </b>\n    : Pin an app on your device screen, preventing access to other features of your device.\n   </li>\n   <li>\n    <b>\n     Usage data access\n    </b>\n    : View the applications that can access your device\u00e2\u0080\u0099s usage history.\n   </li>\n   <li>\n    <b>\n     Notification access\n    </b>\n    : View the applications that can access notifications you receive on your device.\n   </li>\n   <li>\n    <b>\n     Do not disturb permission\n    </b>\n    : View which apps have permission to change the Do not disturb settings.\n   </li>\n  </ul>\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/advanced_security_settings_tid1e13653.html",
+    "section_hierarchy": "section_74>section_92",
+    "id": "section_92"
+  },
+  "section_93": {
+    "title": "Accounts",
+    "text": [
+      "Accounts",
+      "Set up and manage accounts, including your Google Account, Samsung account, email, and social networking accounts."
+    ],
+    "html": [
+      "<h2 class=\"subsection\" id=\"accounts\">\n Accounts\n</h2>\n",
+      "<p>\n Set up and manage accounts, including your Google Account, Samsung account, email, and social networking accounts.\n</p>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/accounts_tid1e13932.html",
+    "section_hierarchy": "section_93",
+    "id": "section_93"
+  },
+  "section_94": {
+    "title": "Samsung Cloud",
+    "text": [
+      "Samsung Cloud",
+      "Keep your data safe by backing up and restoring your device.",
+      "You can also sync your data from multiple devices.",
+      "For more information, visit .",
+      "samsung.com/us/support/owners/app/samsung-cloud",
+      "From Settings, tap Cloud and accounts > Samsung Cloud.",
+      "If a Samsung account has not been added, follow the prompts to add one.",
+      "Once a Samsung account is configured, you can view and manage items stored in the Samsung Cloud."
+    ],
+    "html": [
+      "<h2 id=\"samsung_cloud\">\n Samsung Cloud\n</h2>\n",
+      "<p>\n Keep your data safe by backing up and restoring your device. You can also sync your data from multiple devices. For more information, visit\n <a href=\"https://www.samsung.com/us/support/owners/app/samsung-cloud\">\n  samsung.com/us/support/owners/app/samsung-cloud\n </a>\n .\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Cloud and accounts\n  </b>\n  &gt;\n  <b>\n   Samsung Cloud\n  </b>\n  .\n  <ul>\n   <li>\n    If a Samsung account has not been added, follow the prompts to add one.\n   </li>\n  </ul>\n </li>\n <li>\n  Once a Samsung account is configured, you can view and manage items stored in the Samsung Cloud.\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/samsung_cloud_tid1e13728.html",
+    "section_hierarchy": "section_93>section_94",
+    "id": "section_94"
+  },
+  "section_95": {
+    "title": "Add an account",
+    "text": [
+      "Add an account",
+      "You can add and manage all your email, social networking, and picture and video sharing accounts.",
+      "From Settings, tap Cloud and accounts > Accounts > Add account.",
+      "Tap one of the account types.",
+      "Follow the prompts to enter your credentials and set up the account.",
+      "Tap Auto sync data to enable automatic updates to your accounts."
+    ],
+    "html": [
+      "<h2 id=\"add_an_account\">\n Add an account\n</h2>\n",
+      "<p>\n You can add and manage all your email, social networking, and picture and video sharing accounts.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Cloud and accounts\n  </b>\n  &gt;\n  <b>\n   Accounts\n  </b>\n  &gt;\n  <img src=\"images/i-generic_minus_plus_in_circle.png\"/>\n  <b>\n   Add account\n  </b>\n  .\n </li>\n <li>\n  Tap one of the account types.\n </li>\n <li>\n  Follow the prompts to enter your credentials and set up the account.\n  <ul>\n   <li>\n    Tap\n    <b>\n     Auto sync data\n    </b>\n    to enable automatic updates to your accounts.\n   </li>\n  </ul>\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/add_an_account_tid1e13764.html",
+    "section_hierarchy": "section_93>section_95",
+    "id": "section_95"
+  },
+  "section_96": {
+    "title": "Backup and restore",
+    "text": [
+      "Backup and restore",
+      "Configure your device to backup data to your personal accounts."
+    ],
+    "html": [
+      "<h2 id=\"backup_and_restore\">\n Backup and restore\n</h2>\n",
+      "<p>\n Configure your device to backup data to your personal accounts.\n</p>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/backup_and_restore_tid1e13876.html",
+    "section_hierarchy": "section_93>section_96",
+    "id": "section_96"
+  },
+  "section_97": {
+    "title": "Google settings",
+    "text": [
+      "Google settings",
+      "Configure your devices Google settings.",
+      "Available options depend on your Google account.",
+      "From Settings, tap Google, and select an option to customize."
+    ],
+    "html": [
+      "<h2 id=\"google_settings\">\n Google settings\n</h2>\n",
+      "<p>\n Configure your device\u00e2\u0080\u0099s Google settings. Available options depend on your Google account.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Google\n  </b>\n  , and select an option to customize.\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/google_settings_tid1e13966.html",
+    "section_hierarchy": "section_93>section_97",
+    "id": "section_97"
+  },
+  "section_98": {
+    "title": "Accessibility",
+    "text": [
+      "Accessibility",
+      "Accessibility services are special features that make using the device easier for those with certain physical disabilities.",
+      "For more information about Accessibility for Samsung products, please contact us at .",
+      "accessibility@sea.samsung.com"
+    ],
+    "html": [
+      "<h2 class=\"subsection\" id=\"accessibility\">\n Accessibility\n</h2>\n",
+      "<p>\n Accessibility services are special features that make using the device easier for those with certain physical disabilities.\n</p>\n",
+      "<p>\n For more information about Accessibility for Samsung products, please contact us at\n <a href=\"mailto:accessibility@sea.samsung.com?subject=Accessibility\">\n  accessibility@sea.samsung.com\n </a>\n .\n</p>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/accessibility_tid1e14210.html",
+    "section_hierarchy": "section_98",
+    "id": "section_98"
+  },
+  "section_99": {
+    "title": "Vision",
+    "text": [
+      "Vision",
+      "You can turn on Accessibility features to assist with visual aspects of the device.",
+      "From Settings, tap Accessibility > Vision and tap an option:",
+      "Voice Assistant: Give spoken feedback to assist blind and low-vision users.",
+      "Voice Assistant help: View help on using Voice Assistant.",
+      "Dark screen: Keep the screen turned off at all times for privacy.",
+      "Rapid key input: Release your finger to enter selection instead of double tapping.",
+      "Voice Label: Write voice recordings to NFC tags to provide information about nearby objects.",
+      "Font and screen zoom: Configure the screen zoom level and font size and style.",
+      "High contrast fonts: Adjust the color and outline of fonts to increase the contrast with the background.",
+      "High contrast keyboard: Adjust the size of the Samsung keyboard and change its colors to increase the contrast between the keys and the background.",
+      "Show button shapes: Show buttons with shaded backgrounds to make them stand out.",
+      "Magnifier window: Magnify content shown on the screen.",
+      "Magnification: Use exaggerated gestures such as triple-tapping, double pinching, and dragging two fingers across the screen.",
+      "Large mouse/touchpad pointer: Enable a large pointer for a connected mouse or touchpad.",
+      "Negative colors: Reverse the display of colors from white text on a black background to black text on a white background.",
+      "Color adjustment: Adjust the color of the screen if you are color blind or have difficulty reading the display because of the screen color.",
+      "Color lens: Adjust the screen colors if you have difficulty reading the text."
+    ],
+    "html": [
+      "<h2 id=\"vision\">\n Vision\n</h2>\n",
+      "<p>\n You can turn on Accessibility features to assist with visual aspects of the device.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Accessibility\n  </b>\n  &gt;\n  <b>\n   Vision\n  </b>\n  and tap an option:\n  <ul>\n   <li>\n    <b>\n     Voice Assistant\n    </b>\n    : Give spoken feedback to assist blind and low-vision users.\n   </li>\n   <li>\n    <b>\n     Voice Assistant help\n    </b>\n    : View help on using Voice Assistant.\n   </li>\n   <li>\n    <b>\n     Dark screen\n    </b>\n    : Keep the screen turned off at all times for privacy.\n   </li>\n   <li>\n    <b>\n     Rapid key input\n    </b>\n    : Release your finger to enter selection instead of double tapping.\n   </li>\n   <li>\n    <b>\n     Voice Label\n    </b>\n    : Write voice recordings to NFC tags to provide information about nearby objects.\n   </li>\n   <li>\n    <b>\n     Font and screen zoom\n    </b>\n    : Configure the screen zoom level and font size and style.\n   </li>\n   <li>\n    <b>\n     High contrast fonts\n    </b>\n    : Adjust the color and outline of fonts to increase the contrast with the background.\n   </li>\n   <li>\n    <b>\n     High contrast keyboard\n    </b>\n    : Adjust the size of the Samsung keyboard and change its colors to increase the contrast between the keys and the background.\n   </li>\n   <li>\n    <b>\n     Show button shapes\n    </b>\n    : Show buttons with shaded backgrounds to make them stand out.\n   </li>\n   <li>\n    <b>\n     Magnifier window\n    </b>\n    : Magnify content shown on the screen.\n   </li>\n   <li>\n    <b>\n     Magnification\n    </b>\n    : Use exaggerated gestures such as triple-tapping, double pinching, and dragging two fingers across the screen.\n   </li>\n   <li>\n    <b>\n     Large mouse/touchpad pointer\n    </b>\n    : Enable a large pointer for a connected mouse or touchpad.\n   </li>\n   <li>\n    <b>\n     Negative colors\n    </b>\n    : Reverse the display of colors from white text on a black background to black text on a white background.\n   </li>\n   <li>\n    <b>\n     Color adjustment\n    </b>\n    : Adjust the color of the screen if you are color blind or have difficulty reading the display because of the screen color.\n   </li>\n   <li>\n    <b>\n     Color lens\n    </b>\n    : Adjust the screen colors if you have difficulty reading the text.\n   </li>\n  </ul>\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/vision_tid1e14001.html",
+    "section_hierarchy": "section_98>section_99",
+    "id": "section_99"
+  },
+  "section_100": {
+    "title": "Hearing",
+    "text": [
+      "Hearing",
+      "You can turn on Accessibility features to assist with audio aspects of the device.",
+      "From Settings, tap Accessibility > Hearing and tap an option:",
+      "Sound detectors: Receive alerts when the device detects a baby crying or a doorbell.",
+      "Flash notification: Set the camera light or screen to blink whenever you receive a notification.",
+      "Mute all sounds: Turn off all notifications and audio for privacy.",
+      "Hearing aids: Improve the sound quality for use with hearing aids.",
+      "Samsung subtitles (CC): Use Samsung subtitles with multimedia files when available.",
+      "Google subtitles (CC): Use Google subtitles with multimedia files when available.",
+      "Left/right sound balance: Use the slider to set the left and right balance when using a stereo device.",
+      "Mono audio: Switch audio from stereo to mono for use with one earphone."
+    ],
+    "html": [
+      "<h2 id=\"hearing\">\n Hearing\n</h2>\n",
+      "<p>\n You can turn on Accessibility features to assist with audio aspects of the device.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Accessibility\n  </b>\n  &gt;\n  <b>\n   Hearing\n  </b>\n  and tap an option:\n  <ul>\n   <li>\n    <b>\n     Sound detectors\n    </b>\n    : Receive alerts when the device detects a baby crying or a doorbell.\n   </li>\n   <li>\n    <b>\n     Flash notification\n    </b>\n    : Set the camera light or screen to blink whenever you receive a notification.\n   </li>\n   <li>\n    <b>\n     Mute all sounds\n    </b>\n    : Turn off all notifications and audio for privacy.\n   </li>\n   <li>\n    <b>\n     Hearing aids\n    </b>\n    : Improve the sound quality for use with hearing aids.\n   </li>\n   <li>\n    <b>\n     Samsung subtitles (CC)\n    </b>\n    : Use Samsung subtitles with multimedia files when available.\n   </li>\n   <li>\n    <b>\n     Google subtitles (CC)\n    </b>\n    : Use Google subtitles with multimedia files when available.\n   </li>\n   <li>\n    <b>\n     Left/right sound balance\n    </b>\n    : Use the slider to set the left and right balance when using a stereo device.\n   </li>\n   <li>\n    <b>\n     Mono audio\n    </b>\n    : Switch audio from stereo to mono for use with one earphone.\n   </li>\n  </ul>\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/hearing_tid1e14120.html",
+    "section_hierarchy": "section_98>section_100",
+    "id": "section_100"
+  },
+  "section_101": {
+    "title": "Dexterity and interaction",
+    "text": [
+      "Dexterity and interaction",
+      "You can turn on Accessibility features to assist with dexterity and interaction aspects of the device.",
+      "From Settings, tap Accessibility > Dexterity and interaction and tap an option:",
+      "Universal switch: Control your device with your customized switches.",
+      "Assistant menu: Improve the device accessibility for users with reduced dexterity.",
+      "Easy screen turn on: Turn on the screen without having to press any buttons.",
+      "Touch and hold delay: Select a time interval for this action.",
+      "Click after pointer stops: Automatically click on an item after the pointer stops over it.",
+      "Interaction control: Customize interactable or non-interactable areas, hardkeys, and the keyboard."
+    ],
+    "html": [
+      "<h2 id=\"dexterity_and_interaction\">\n Dexterity and interaction\n</h2>\n",
+      "<p>\n You can turn on Accessibility features to assist with dexterity and interaction aspects of the device.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Accessibility\n  </b>\n  &gt;\n  <b>\n   Dexterity and interaction\n  </b>\n  and tap an option:\n  <ul>\n   <li>\n    <b>\n     Universal switch\n    </b>\n    : Control your device with your customized switches.\n   </li>\n   <li>\n    <b>\n     Assistant menu\n    </b>\n    : Improve the device accessibility for users with reduced dexterity.\n   </li>\n   <li>\n    <b>\n     Easy screen turn on\n    </b>\n    : Turn on the screen without having to press any buttons.\n   </li>\n   <li>\n    <b>\n     Touch and hold delay\n    </b>\n    : Select a time interval for this action.\n   </li>\n   <li>\n    <b>\n     Click after pointer stops\n    </b>\n    : Automatically click on an item after the pointer stops over it.\n   </li>\n   <li>\n    <b>\n     Interaction control\n    </b>\n    : Customize interactable or non-interactable areas, hardkeys, and the keyboard.\n   </li>\n  </ul>\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/dexterity_and_interaction_tid1e14195.html",
+    "section_hierarchy": "section_98>section_101",
+    "id": "section_101"
+  },
+  "section_102": {
+    "title": "More accessibility settings",
+    "text": [
+      "More accessibility settings",
+      "Customize additional accessibility features for your device.",
+      "From Settings, tap Accessibility",
+      "Text-to-speech: Set your preferred TTS engine and options.",
+      "For more information, see .",
+      "Text-to-speech options",
+      "Direction lock: Unlock the screen by swiping in a series of directions.",
+      "Direct access: Open your accessibility settings by pressing the Volume up key and the Power key together.",
+      "Accessibility shortcut: Quickly enable accessibility features using the Volume keys.",
+      "Notification reminder: Beep at set intervals to remind you of any unread notifications.",
+      "Answering and ending calls: Select shortcuts for answering and ending calls.",
+      "Single tap mode: Dismiss or snooze alarms, calendar events, and timer alerts, and answer or reject incoming calls with a single tap.",
+      "Accessibility settings backup: Import and export your accessibility settings, or share them with other devices."
+    ],
+    "html": [
+      "<h2 id=\"more_accessibility_settings\">\n More accessibility settings\n</h2>\n",
+      "<p>\n Customize additional accessibility features for your device.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Accessibility\n  </b>\n  <ul>\n   <li>\n    <b>\n     Text-to-speech\n    </b>\n    : Set your preferred TTS engine and options. For more information, see\n    <a href=\"language_and_input_tid1e12249.html#text-to-speech_options\">\n     Text-to-speech options\n    </a>\n    .\n   </li>\n   <li>\n    <b>\n     Direction lock\n    </b>\n    : Unlock the screen by swiping in a series of directions.\n   </li>\n   <li>\n    <b>\n     Direct access\n    </b>\n    : Open your accessibility settings by pressing the Volume up key and the Power key together.\n   </li>\n   <li>\n    <b>\n     Accessibility shortcut\n    </b>\n    : Quickly enable accessibility features using the Volume keys.\n   </li>\n   <li>\n    <b>\n     Notification reminder\n    </b>\n    : Beep at set intervals to remind you of any unread notifications.\n   </li>\n   <li>\n    <b>\n     Answering and ending calls\n    </b>\n    : Select shortcuts for answering and ending calls.\n   </li>\n   <li>\n    <b>\n     Single tap mode\n    </b>\n    : Dismiss or snooze alarms, calendar events, and timer alerts, and answer or reject incoming calls with a single tap.\n   </li>\n   <li>\n    <b>\n     Accessibility settings backup\n    </b>\n    : Import and export your accessibility settings, or share them with other devices.\n   </li>\n  </ul>\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/more_accessibility_settings_tid1e14259.html",
+    "section_hierarchy": "section_98>section_102",
+    "id": "section_102"
+  },
+  "section_103": {
+    "title": "Accessibility services",
+    "text": [
+      "Accessibility services",
+      "Additional accessibility apps may be downloaded from the Google Play store.",
+      "From Settings, tap Accessibility.",
+      "Other installed accessibility services may be listed and configured under Services."
+    ],
+    "html": [
+      "<h2 id=\"accessibility_services\">\n Accessibility services\n</h2>\n",
+      "<p>\n Additional accessibility apps may be downloaded from the Google Play store.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Accessibility\n  </b>\n  .\n </li>\n <li>\n  Other installed accessibility services may be listed and configured under Services.\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/accessibility_services_tid1e14334.html",
+    "section_hierarchy": "section_98>section_103",
+    "id": "section_103"
+  },
+  "section_104": {
+    "title": "Other settings",
+    "text": [
+      "Other settings",
+      "Configure features on your device that make it easier to use."
+    ],
+    "html": [
+      "<h2 class=\"subsection\" id=\"other_settings\">\n Other settings\n</h2>\n",
+      "<p>\n Configure features on your device that make it easier to use.\n</p>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/other_settings_tid1e14596.html",
+    "section_hierarchy": "section_104",
+    "id": "section_104"
+  },
+  "section_105": {
+    "title": "Help",
+    "text": [
+      "Help",
+      "View the user manual on your device.",
+      "From Settings, tap Help."
+    ],
+    "html": [
+      "<h2 id=\"help\">\n Help\n</h2>\n",
+      "<p>\n View the user manual on your device.\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Help\n  </b>\n  .\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/help_tid1e14368.html",
+    "section_hierarchy": "section_104>section_105",
+    "id": "section_105"
+  },
+  "section_106": {
+    "title": "Manage game features",
+    "text": [
+      "Manage game features",
+      "Automatically arrange all your games in one place.",
+      "For more information on Game Launcher, visit .",
+      "samsung.com/us/support/owners/app/game-launcher",
+      "From Settings, tap Advanced features > Games.",
+      "Tap On/Off to enable Game Launcher.",
+      "Tap On/Off to enable Game Tools."
+    ],
+    "html": [
+      "<h2 id=\"manage_game_features\">\n Manage game features\n</h2>\n",
+      "<p>\n Automatically arrange all your games in one place. For more information on Game Launcher, visit\n <a href=\"https://www.samsung.com/us/support/owners/app/game-launcher\">\n  samsung.com/us/support/owners/app/game-launcher\n </a>\n .\n</p>\n",
+      "<ul class=\"single-step\">\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Advanced features\n  </b>\n  &gt;\n  <b>\n   Games\n  </b>\n  .\n  <ul>\n   <li>\n    Tap\n    <b>\n     On/Off\n    </b>\n    to enable Game Launcher.\n   </li>\n   <li>\n    Tap\n    <b>\n     On/Off\n    </b>\n    to enable Game Tools.\n   </li>\n  </ul>\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/manage_game_features_tid1e14389.html",
+    "section_hierarchy": "section_104>section_106",
+    "id": "section_106"
+  },
+  "section_107": {
+    "title": "Device assistance app",
+    "text": [
+      "Device assistance app",
+      "Device assistance apps help you by gathering information from the screen currently shown.",
+      "Tap Settings > Apps > More options > Default apps > Device assistance app.",
+      "Tap an option to customize:",
+      "Device assistance app: Select your default assistance app.",
+      "Analyze on-screen text: Analyze text shown on the screen to provide related content.",
+      "Analyze on-screen images: Take and analyze images of the screen."
+    ],
+    "html": [
+      "<h2 id=\"device_assistance_app\">\n Device assistance app\n</h2>\n",
+      "<p>\n Device assistance apps help you by gathering information from the screen currently shown.\n</p>\n",
+      "<ol>\n <li>\n  Tap\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  &gt;\n  <b>\n   Apps\n  </b>\n  &gt;\n  <img src=\"images/i-more_options.png\"/>\n  <b>\n   More options\n  </b>\n  &gt;\n  <b>\n   Default apps\n  </b>\n  &gt;\n  <b>\n   Device assistance app\n  </b>\n  .\n </li>\n <li>\n  Tap an option to customize:\n  <ul>\n   <li>\n    <b>\n     Device assistance app\n    </b>\n    : Select your default assistance app.\n   </li>\n   <li>\n    <b>\n     Analyze on-screen text\n    </b>\n    : Analyze text shown on the screen to provide related content.\n   </li>\n   <li>\n    <b>\n     Analyze on-screen images\n    </b>\n    : Take and analyze images of the screen.\n   </li>\n  </ul>\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/device_assistance_app_tid1e14430.html",
+    "section_hierarchy": "section_104>section_107",
+    "id": "section_107"
+  },
+  "section_108": {
+    "title": "Dual messenger",
+    "text": [
+      "Dual messenger",
+      "Use two separate accounts for the same app.",
+      "From Settings, tap Advanced features > Dual messenger.",
+      "Tap On/Off next to supported apps to enable the feature for each app."
+    ],
+    "html": [
+      "<h2 id=\"dual_messenger\">\n Dual messenger\n</h2>\n",
+      "<p>\n Use two separate accounts for the same app.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   Advanced features\n  </b>\n  &gt;\n  <b>\n   Dual messenger\n  </b>\n  .\n </li>\n <li>\n  Tap\n  <b>\n   On/Off\n  </b>\n  next to supported apps to enable the feature for each app.\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/dual_messenger_tid1e14487.html",
+    "section_hierarchy": "section_104>section_108",
+    "id": "section_108"
+  },
+  "section_109": {
+    "title": "About phone",
+    "text": [
+      "About phone",
+      "View information about your device, including current status, legal information, hardware and software versions, and more.",
+      "From Settings, tap About phone, and then view your phone number, model number, serial number, and IMEI information.",
+      "Tap additional items to view more information about your device."
+    ],
+    "html": [
+      "<h2 id=\"about_phone\">\n About phone\n</h2>\n",
+      "<p>\n View information about your device, including current status, legal information, hardware and software versions, and more.\n</p>\n",
+      "<ol>\n <li>\n  From\n  <img src=\"images/a-settings.png\"/>\n  <b>\n   Settings\n  </b>\n  , tap\n  <b>\n   About phone\n  </b>\n  , and then view your phone number, model number, serial number, and IMEI information.\n </li>\n <li>\n  Tap additional items to view more information about your device.\n </li>\n</ol>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/about_phone_tid1e14516.html",
+    "section_hierarchy": "section_104>section_109",
+    "id": "section_109"
+  },
+  "section_110": {
+    "title": "Legal information",
+    "text": [
+      "Legal information",
+      "READ THIS INFORMATION BEFORE USING YOUR MOBILE DEVICE.",
+      "Arbitration Agreement - This Product is subject to a binding arbitration agreement between you and SAMSUNG ELECTRONICS AMERICA, INC. (Samsung).",
+      "You can opt out of the agreement within 30 calendar days of the first consumer purchase by emailing or calling 1-800-SAMSUNG (726-7864) and providing the applicable information.",
+      "For complete terms and conditions that bind you and Samsung, refer to the Arbitration Agreement section of the Terms & Conditions, included with the Product.",
+      "optout@sea.samsung.com",
+      "Find legal information online",
+      "The full Arbitration Agreement, Standard Limited Warranty, End User License Agreement (EULA), and Health & Safety Information for your device are available online.",
+      "Arbitration Agreement, Standard Limited Warranty, and Health & Safety Information:",
+      "Phone:",
+      "English:",
+      "samsung.com/us/Legal/Phone-HSGuide",
+      "Spanish:",
+      "samsung.com/us/Legal/Phone-HSGuide-SP",
+      "Tablet:",
+      "English:",
+      "samsung.com/us/Legal/Tablet-HSGuide",
+      "Spanish:",
+      "samsung.com/us/Legal/Tablet-HSGuide-SP",
+      "End User License Agreement:",
+      "English:",
+      "samsung.com/us/Legal/SamsungLegal-EULA4",
+      "Spanish:",
+      "samsung.com/us/Legal/SamsungLegal-EULA4/#SPANISH",
+      "Find legal information on the mobile device",
+      "The full Arbitration Agreement, Standard Limited Warranty, End User License Agreement (EULA) and Health & Safety Information are also available on the device, in the Samsung legal section of Settings.",
+      "The location depends on the device, and is usually in the About device or About phone section, for example:",
+      "Settings > About phone or About device or About tablet > Legal information > Samsung legal",
+      "Or, use the Search feature to search for Legal."
+    ],
+    "html": [
+      "<h2 id=\"legal_information\">\n Legal information\n</h2>\n",
+      "<p>\n <b>\n  READ THIS INFORMATION BEFORE USING YOUR MOBILE DEVICE.\n </b>\n</p>\n",
+      "<p>\n <b>\n  Arbitration Agreement - This Product is subject to a binding arbitration agreement between you and SAMSUNG ELECTRONICS AMERICA, INC. (\u00e2\u0080\u009cSamsung\u00e2\u0080\u009d). You can opt out of the agreement within 30 calendar days of the first consumer purchase by emailing\n </b>\n <a href=\"mailto:optout@sea.samsung.com?subject=Arbitration\">\n  optout@sea.samsung.com\n </a>\n <b>\n  or calling 1-800-SAMSUNG (726-7864) and providing the applicable information. For complete terms and conditions that bind you and Samsung, refer to the \u00e2\u0080\u009cArbitration Agreement\u00e2\u0080\u009d section of the Terms &amp; Conditions, included with the Product.\n </b>\n</p>\n",
+      "<p>\n <b>\n  Find legal information online\n </b>\n</p>\n",
+      "<p>\n The full Arbitration Agreement, Standard Limited Warranty, End User License Agreement (EULA), and Health &amp; Safety Information for your device are available online.\n</p>\n",
+      "<p>\n Arbitration Agreement, Standard Limited Warranty, and Health &amp; Safety Information:\n</p>\n",
+      "<p>\n Phone:\n</p>\n",
+      "<ul>\n <li>\n  English:\n  <a href=\"https://www.samsung.com/us/Legal/Phone-HSGuide\">\n   samsung.com/us/Legal/Phone-HSGuide\n  </a>\n </li>\n <li>\n  Spanish:\n  <a href=\"https://www.samsung.com/us/Legal/Phone-HSGuide-SP\">\n   samsung.com/us/Legal/Phone-HSGuide-SP\n  </a>\n </li>\n</ul>\n",
+      "<p>\n Tablet:\n</p>\n",
+      "<ul>\n <li>\n  English:\n  <a href=\"https://www.samsung.com/us/Legal/Tablet-HSGuide\">\n   samsung.com/us/Legal/Tablet-HSGuide\n  </a>\n </li>\n <li>\n  Spanish:\n  <a href=\"https://www.samsung.com/us/Legal/Tablet-HSGuide-SP\">\n   samsung.com/us/Legal/Tablet-HSGuide-SP\n  </a>\n </li>\n</ul>\n",
+      "<p class=\"step-intro\">\n End User License Agreement:\n</p>\n",
+      "<ul>\n <li>\n  English:\n  <a href=\"https://www.samsung.com/us/Legal/SamsungLegal-EULA4\">\n   samsung.com/us/Legal/SamsungLegal-EULA4\n  </a>\n </li>\n <li>\n  Spanish:\n  <a href=\"https://www.samsung.com/us/Legal/SamsungLegal-EULA4/#SPANISH\">\n   samsung.com/us/Legal/SamsungLegal-EULA4/#SPANISH\n  </a>\n </li>\n</ul>\n",
+      "<p>\n <b>\n  Find legal information on the mobile device\n </b>\n</p>\n",
+      "<p>\n The full Arbitration Agreement, Standard Limited Warranty, End User License Agreement (EULA) and Health &amp; Safety Information are also available on the device, in the Samsung legal section of Settings. The location depends on the device, and is usually in the \u00e2\u0080\u009cAbout device\u00e2\u0080\u009d or \u00e2\u0080\u009cAbout phone\u00e2\u0080\u009d section, for example:\n</p>\n",
+      "<ul>\n <li>\n  <b>\n   Settings\n  </b>\n  &gt;\n  <b>\n   About phone\n  </b>\n  or\n  <b>\n   About device\n  </b>\n  or\n  <b>\n   About tablet\n  </b>\n  &gt;\n  <b>\n   Legal information\n  </b>\n  &gt;\n  <b>\n   Samsung legal\n  </b>\n </li>\n <li>\n  Or, use the Search feature to search for \u00e2\u0080\u009cLegal\u00e2\u0080\u009d.\n </li>\n</ul>\n"
+    ],
+    "section_url": "https://downloadcenter.samsung.com/content/PM/201809/20180925235440287/EB/GEN_G930U_G935U_EN_FINAL_180921/legal_information_tid1e14652.html",
+    "section_hierarchy": "section_110",
+    "id": "section_110"
+  }
+}
