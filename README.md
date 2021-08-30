@@ -1,6 +1,6 @@
-# Anonymous-Submission-EMNLP2021
+# Question Answering over Electronic Devices: A New Benchmark Dataset and a Multi-Task Learning based QA Framework
 
-This repo is for the code for the paper **"Question Answering over Electronic Devices: A New Benchmark Dataset and a Multi-Task Learning based QA Framework"** submitted to **EMNLP 2021**.
+This repo has the code for the paper **"Question Answering over Electronic Devices: A New Benchmark Dataset and a Multi-Task Learning based QA Framework"** accepted at **EMNLP 2021 Findings**.
 
 ## Required dependencies -
 
