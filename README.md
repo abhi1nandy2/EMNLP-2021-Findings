@@ -1,6 +1,6 @@
 # Question Answering over Electronic Devices: A New Benchmark Dataset and a Multi-Task Learning based QA Framework
 
-This repo has the code for the paper **"Question Answering over Electronic Devices: A New Benchmark Dataset and a Multi-Task Learning based QA Framework"** accepted at **EMNLP 2021 Findings**. The blog on this paper can be found [here](https://medium.com/@nandyabhilash/question-answering-over-electronic-devices-a-new-benchmark-dataset-and-a-multi-task-learning-based-5ac5661dc858), and a corresponding presentation [here](https://docs.google.com/presentation/d/1k2qj6cmh3C1ZXmlYzscPlM3sRubD7kzqEDP2npvkK6c/edit?usp=sharing).
+This repo has the code for the [paper](https://arxiv.org/abs/2109.05897) **"Question Answering over Electronic Devices: A New Benchmark Dataset and a Multi-Task Learning based QA Framework"** accepted at **EMNLP 2021 Findings**. The blog on this paper can be found [here](https://medium.com/@nandyabhilash/question-answering-over-electronic-devices-a-new-benchmark-dataset-and-a-multi-task-learning-based-5ac5661dc858), and a corresponding presentation [here](https://docs.google.com/presentation/d/1k2qj6cmh3C1ZXmlYzscPlM3sRubD7kzqEDP2npvkK6c/edit?usp=sharing).
 
 ## Required dependencies -
 
