@@ -28,3 +28,16 @@ Go to [this link](https://drive.google.com/drive/folders/1-gX1DlmVodP6OVRJC3WBRZ
 1. **Dense Passage Retrieval(DPR)** - Used HuggingFace implementation (https://huggingface.co/transformers/model_doc/dpr.html)
 2. **Technical Answer Prediction (TAP)** - took the help of code in https://github.com/IBM/techqa
 3. **MultiSpan** - took the help of code in https://github.com/eladsegal/tag-based-multi-span-extraction
+
+## Citation
+
+Please cite the work if you would like to use it.
+
+```
+@article{nandy2021question,
+  title={Question Answering over Electronic Devices: A New Benchmark Dataset and a Multi-Task Learning based QA Framework},
+  author={Nandy, Abhilash and Sharma, Soumya and Maddhashiya, Shubham and Sachdeva, Kapil and Goyal, Pawan and Ganguly, Niloy},
+  journal={arXiv preprint arXiv:2109.05897},
+  year={2021}
+}
+```
