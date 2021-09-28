@@ -8,7 +8,7 @@ Please run `pip install -r requirements.txt` (`python3` required)
 
 ### E-Manual pre-training corpus
 
-Go to [this link](https://drive.google.com/drive/folders/1-gX1DlmVodP6OVRJC3WBRZoGgxPuJvvt?usp=sharing). A RoBERTa BASE Model pre-trained on the corpus can be found [here](https://huggingface.co/AnonymousSub/EManuals_Roberta).
+Go to [this link](https://drive.google.com/drive/folders/1-gX1DlmVodP6OVRJC3WBRZoGgxPuJvvt?usp=sharing). A RoBERTa BASE Model pre-trained on the corpus can be found [here](https://huggingface.co/abhi1nandy2/EManuals_RoBERTa).
 
 ### Codes
 
